@@ -1,0 +1,488 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Archer	dunder.py	/^class Archer(User):$/;"	c
+Archer	introspection.py	/^class Archer(User):$/;"	c
+Archer	oop.py	/^class Archer(User):$/;"	c
+Archer	super.py	/^class Archer(User):$/;"	c
+Array	pythonSamples/Arrays/Implementing an array.py	/^class Array:$/;"	c
+BFS	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def BFS(self):$/;"	m	class:BST
+BST	pythonSamples2/Algorithms/Traversals/BFS.py	/^class BST():$/;"	c
+BST	pythonSamples2/Algorithms/Traversals/DFS.py	/^class BST():$/;"	c
+BST	pythonSamples2/DS/Trees/Binary_Search_Tree.py	/^class BST():$/;"	c
+BinarySearchTree	pythonSamples/Traversals/Breadth First Search.py	/^class BinarySearchTree:$/;"	c
+BinarySearchTree	pythonSamples/Traversals/Depth First Search.py	/^class BinarySearchTree:$/;"	c
+BinarySearchTree	pythonSamples/Trees/Binary Search Tree.py	/^class BinarySearchTree:$/;"	c
+CircularLinkedList	pythonSamples/Linkedlist/Circular Linked List.py	/^class CircularLinkedList:$/;"	c
+DFS_Inorder	pythonSamples2/Algorithms/Traversals/DFS.py	/^    def DFS_Inorder(self):$/;"	m	class:BST
+DFS_Postorder	pythonSamples2/Algorithms/Traversals/DFS.py	/^    def DFS_Postorder(self):$/;"	m	class:BST
+DFS_Preorder	pythonSamples2/Algorithms/Traversals/DFS.py	/^    def DFS_Preorder(self):$/;"	m	class:BST
+DoublyLinkedList	pythonSamples/Linkedlist/Doubly Linked List.py	/^class DoublyLinkedList:$/;"	c
+DoublyLinkedList	pythonSamples2/DS/Linked Lists/Doubly_Linked_Lists.py	/^class DoublyLinkedList():$/;"	c
+Graph	pythonSamples/Graph/Graph Implementation.py	/^class Graph:$/;"	c
+Graph	pythonSamples2/DS/Graphs/Undirected_Graph_Implementation.py	/^class Graph():$/;"	c
+Hashtable	pythonSamples/Hashtables/Hash Table Implementation.py	/^class Hashtable:$/;"	c
+LinkedList	pythonSamples/Linkedlist/Linked List.py	/^class LinkedList():$/;"	c
+LinkedList	pythonSamples2/DS/Linked Lists/Implementation.py	/^class LinkedList():$/;"	c
+MaxHeap	pythonSamples2/DS/Trees/Heap.py	/^class MaxHeap:$/;"	c
+Node	pythonSamples/Linkedlist/Doubly Linked List.py	/^class Node:$/;"	c
+Node	pythonSamples/Linkedlist/Linked List.py	/^class Node():$/;"	c
+Node	pythonSamples/StackAndQueue/Queue using Linked List.py	/^class Node:$/;"	c
+Node	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^class Node:$/;"	c
+Node	pythonSamples/Traversals/Breadth First Search.py	/^class Node:$/;"	c
+Node	pythonSamples/Traversals/Depth First Search.py	/^class Node:$/;"	c
+Node	pythonSamples/Trees/Binary Search Tree.py	/^class Node:$/;"	c
+Node	pythonSamples2/Algorithms/Traversals/BFS.py	/^class Node():$/;"	c
+Node	pythonSamples2/Algorithms/Traversals/DFS.py	/^class Node():$/;"	c
+Node	pythonSamples2/DS/Linked Lists/Doubly_Linked_Lists.py	/^class Node():$/;"	c
+Node	pythonSamples2/DS/Linked Lists/Implementation.py	/^class Node():$/;"	c
+Node	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^class Node():$/;"	c
+Node	pythonSamples2/DS/Stacks/Linked_List_Implementation.py	/^class Node():$/;"	c
+Node	pythonSamples2/DS/Trees/Binary_Search_Tree.py	/^class Node():$/;"	c
+Queue	pythonSamples/StackAndQueue/Queue using Linked List.py	/^class Queue:$/;"	c
+Queue	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^class Queue():$/;"	c
+Queue	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^class Queue():$/;"	c
+Recursive_BFS	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def Recursive_BFS(self, queue, BFS_list):$/;"	m	class:BST
+Stack	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^class Stack:$/;"	c
+Stack	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^class Stack:$/;"	c
+Stack	pythonSamples2/DS/Stacks/Array_Implementation.py	/^class Stack():$/;"	c
+Stack	pythonSamples2/DS/Stacks/Linked_List_Implementation.py	/^class Stack():$/;"	c
+SuperList	ex_extending_list.py	/^class SuperList(list):$/;"	c
+Trie	pythonSamples2/DS/Trees/Trie.py	/^class Trie():$/;"	c
+TrieNode	pythonSamples2/DS/Trees/Trie.py	/^class TrieNode():$/;"	c
+User	dunder.py	/^class User(object):$/;"	c
+User	introspection.py	/^class User(object):$/;"	c
+User	oop.py	/^class User(object):$/;"	c
+User	super.py	/^class User(object):$/;"	c
+Wizard	dunder.py	/^class Wizard(User):$/;"	c
+Wizard	introspection.py	/^class Wizard(User):$/;"	c
+Wizard	oop.py	/^class Wizard(User):$/;"	c
+Wizard	super.py	/^class Wizard(User):$/;"	c
+_Node	pythonSamples/Linkedlist/Circular Linked List.py	/^    class _Node:$/;"	c	class:CircularLinkedList
+__init__	dunder.py	/^    def __init__(self, email):$/;"	m	class:User
+__init__	dunder.py	/^    def __init__(self, name, num_arrows):$/;"	m	class:Archer
+__init__	dunder.py	/^    def __init__(self, name, power,email):$/;"	m	class:Wizard
+__init__	introspection.py	/^    def __init__(self, email):$/;"	m	class:User
+__init__	introspection.py	/^    def __init__(self, name, num_arrows):$/;"	m	class:Archer
+__init__	introspection.py	/^    def __init__(self, name, power,email):$/;"	m	class:Wizard
+__init__	oop.py	/^    def __init__(self, name, num_arrows):$/;"	m	class:Archer
+__init__	oop.py	/^    def __init__(self, name, power):$/;"	m	class:Wizard
+__init__	pythonSamples/Arrays/Implementing an array.py	/^  def __init__(self):$/;"	m	class:Array
+__init__	pythonSamples/Graph/Graph Implementation.py	/^  def __init__(self):$/;"	m	class:Graph
+__init__	pythonSamples/Hashtables/Hash Table Implementation.py	/^	def __init__(self):$/;"	m	class:Hashtable
+__init__	pythonSamples/Linkedlist/Circular Linked List.py	/^        def __init__(self, value, next):$/;"	m	class:CircularLinkedList._Node
+__init__	pythonSamples/Linkedlist/Circular Linked List.py	/^    def __init__(self):$/;"	m	class:CircularLinkedList
+__init__	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def __init__(self):$/;"	m	class:DoublyLinkedList
+__init__	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def __init__(self,data):$/;"	m	class:Node
+__init__	pythonSamples/Linkedlist/Linked List.py	/^  def __init__(self):$/;"	m	class:LinkedList
+__init__	pythonSamples/Linkedlist/Linked List.py	/^  def __init__(self,data):$/;"	m	class:Node
+__init__	pythonSamples/StackAndQueue/Queue using Linked List.py	/^  def __init__(self):$/;"	m	class:Queue
+__init__	pythonSamples/StackAndQueue/Queue using Linked List.py	/^  def __init__(self,val):$/;"	m	class:Node
+__init__	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^  def __init__(self):$/;"	m	class:Stack
+__init__	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^  def __init__(self):$/;"	m	class:Stack
+__init__	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^  def __init__(self,data):$/;"	m	class:Node
+__init__	pythonSamples/Traversals/Breadth First Search.py	/^  def __init__(self):$/;"	m	class:BinarySearchTree
+__init__	pythonSamples/Traversals/Breadth First Search.py	/^  def __init__(self,val):$/;"	m	class:Node
+__init__	pythonSamples/Traversals/Depth First Search.py	/^  def __init__(self):$/;"	m	class:BinarySearchTree
+__init__	pythonSamples/Traversals/Depth First Search.py	/^  def __init__(self,val):$/;"	m	class:Node
+__init__	pythonSamples/Trees/Binary Search Tree.py	/^  def __init__(self):$/;"	m	class:BinarySearchTree
+__init__	pythonSamples/Trees/Binary Search Tree.py	/^  def __init__(self,data):$/;"	m	class:Node
+__init__	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def __init__(self):$/;"	m	class:BST
+__init__	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def __init__(self, data):$/;"	m	class:Node
+__init__	pythonSamples2/Algorithms/Traversals/DFS.py	/^    def __init__(self):$/;"	m	class:BST
+__init__	pythonSamples2/Algorithms/Traversals/DFS.py	/^    def __init__(self, data):$/;"	m	class:Node
+__init__	pythonSamples2/DS/Arrays/Implementation.py	/^    def __init__(self):$/;"	m	class:my_array
+__init__	pythonSamples2/DS/Graphs/Undirected_Graph_Implementation.py	/^    def __init__(self):$/;"	m	class:Graph
+__init__	pythonSamples2/DS/Hash Tables/Implementation.py	/^    def __init__(self,size): #We initialize the size of our hash table(no. of buckets) with the size given to the class object$/;"	m	class:hash_table
+__init__	pythonSamples2/DS/Linked Lists/Doubly_Linked_Lists.py	/^    def __init__(self):$/;"	m	class:DoublyLinkedList
+__init__	pythonSamples2/DS/Linked Lists/Doubly_Linked_Lists.py	/^    def __init__(self, data):$/;"	m	class:Node
+__init__	pythonSamples2/DS/Linked Lists/Implementation.py	/^    def __init__(self):$/;"	m	class:LinkedList
+__init__	pythonSamples2/DS/Linked Lists/Implementation.py	/^    def __init__(self, data): #When instantiating a Node, we will pass the data we want the node to hold$/;"	m	class:Node
+__init__	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^    def __init__(self):$/;"	m	class:Queue
+__init__	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^    def __init__(self, data):$/;"	m	class:Node
+__init__	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^    def __init__(self):$/;"	m	class:Queue
+__init__	pythonSamples2/DS/Stacks/Array_Implementation.py	/^    def __init__(self):$/;"	m	class:Stack
+__init__	pythonSamples2/DS/Stacks/Linked_List_Implementation.py	/^    def __init__(self):$/;"	m	class:Stack
+__init__	pythonSamples2/DS/Stacks/Linked_List_Implementation.py	/^    def __init__(self, data):$/;"	m	class:Node
+__init__	pythonSamples2/DS/Trees/Binary_Search_Tree.py	/^    def __init__(self):$/;"	m	class:BST
+__init__	pythonSamples2/DS/Trees/Binary_Search_Tree.py	/^    def __init__(self, data):$/;"	m	class:Node
+__init__	pythonSamples2/DS/Trees/Heap.py	/^    def __init__(self, maxsize):$/;"	m	class:MaxHeap
+__init__	pythonSamples2/DS/Trees/Trie.py	/^    def __init__(self):$/;"	m	class:Trie
+__init__	pythonSamples2/DS/Trees/Trie.py	/^    def __init__(self):$/;"	m	class:TrieNode
+__init__	super.py	/^    def __init__(self, email):$/;"	m	class:User
+__init__	super.py	/^    def __init__(self, name, num_arrows):$/;"	m	class:Archer
+__init__	super.py	/^    def __init__(self, name, power,email):$/;"	m	class:Wizard
+__len__	ex_extending_list.py	/^    def __len__(self):$/;"	m	class:SuperList	file:
+__slots__	pythonSamples/Linkedlist/Circular Linked List.py	/^        __slots__ = '_data', '_next'$/;"	v	class:CircularLinkedList._Node
+__str__	pythonSamples/Arrays/Implementing an array.py	/^  def __str__(self):$/;"	m	class:Array	file:
+__str__	pythonSamples/Graph/Graph Implementation.py	/^  def __str__(self):$/;"	m	class:Graph	file:
+__str__	pythonSamples/Hashtables/Hash Table Implementation.py	/^	def __str__(self):$/;"	m	class:Hashtable	file:
+__str__	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^  def __str__(self):$/;"	m	class:Stack	file:
+__str__	pythonSamples2/DS/Arrays/Implementation.py	/^    def __str__(self):$/;"	m	class:my_array	file:
+__str__	pythonSamples2/DS/Hash Tables/Implementation.py	/^    def __str__(self): #As in the array implementation, this method is used to print the attributes of the class object in a dictionary format$/;"	m	class:hash_table	file:
+_character_index	pythonSamples2/DS/Trees/Trie.py	/^    def _character_index(self, char):$/;"	m	class:Trie
+_hash	pythonSamples2/DS/Hash Tables/Implementation.py	/^    def _hash(self, key): #Our custom hash function$/;"	m	class:hash_table
+a	pythonSamples/Arrays/Merge Sorted Arrays.py	/^a=[1,3,4,6,20]$/;"	v
+a	pythonSamples2/DS/Arrays/Rotate_Array.py	/^a = [1,2,3,4,5,6,7,8,9]$/;"	v
+add80	pythonSamples/Dynamic Programming/Memoization.py	/^def add80(n):$/;"	f
+addEdge	pythonSamples/Graph/Graph Implementation.py	/^  def addEdge(self,node1,node2):$/;"	m	class:Graph
+addVertex	pythonSamples/Graph/Graph Implementation.py	/^  def addVertex(self,node):$/;"	m	class:Graph
+add_first	pythonSamples/Linkedlist/Circular Linked List.py	/^    def add_first(self, value):$/;"	m	class:CircularLinkedList
+add_last	pythonSamples/Linkedlist/Circular Linked List.py	/^    def add_last(self, value):$/;"	m	class:CircularLinkedList
+add_particular	pythonSamples/Linkedlist/Circular Linked List.py	/^    def add_particular(self, value, position):$/;"	m	class:CircularLinkedList
+age	errorHandling.py	/^     age = int(input('whats your age? '))$/;"	v
+append	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def append(self,data):$/;"	m	class:DoublyLinkedList
+append	pythonSamples/Linkedlist/Linked List.py	/^  def append(self,data):$/;"	m	class:LinkedList
+append	pythonSamples2/DS/Linked Lists/Doubly_Linked_Lists.py	/^    def append(self, data):$/;"	m	class:DoublyLinkedList
+append	pythonSamples2/DS/Linked Lists/Implementation.py	/^    def append(self, data):$/;"	m	class:LinkedList
+archer1	dunder.py	/^archer1=Archer('Sanju',30)$/;"	v
+archer1	introspection.py	/^archer1=Archer('Sanju',30)$/;"	v
+archer1	oop.py	/^archer1=Archer('Sanju',30)$/;"	v
+archer1	super.py	/^archer1=Archer('Sanju',30)$/;"	v
+arr	pythonSamples/Arrays/Implementing an array.py	/^arr=Array()$/;"	v
+arr	pythonSamples/Sorting/Bubble sort.py	/^arr = [5,9,1,2,7,3,8,2]$/;"	v
+arr	pythonSamples/Sorting/Insertion sort.py	/^arr = [6,5,3,1,8,7,2,4]$/;"	v
+arr	pythonSamples/Sorting/Merge sort.py	/^arr = [99,44,6,2,1,5,63,87,283,4,0]$/;"	v
+arr	pythonSamples/Sorting/Selection sort.py	/^arr = [8,6,5,0,4,3,2]$/;"	v
+arr	pythonSamples2/DS/Arrays/Implementation.py	/^arr = my_array()$/;"	v
+array	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^array = [random.randint(1,10) for _ in range(10000000)] #Generates an array of size 1000000 with random integers between 1-10(both included)$/;"	v
+array	pythonSamples2/Algorithms/Sorting/Bubble_Sort.py	/^array = [5,9,3,10,45,2,0]$/;"	v
+array	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^array = [5,9,3,10,45,2,0]$/;"	v
+array	pythonSamples2/Algorithms/Sorting/Insertion_Sort.py	/^array = [5,9,3,10,45,2,0]$/;"	v
+array	pythonSamples2/Algorithms/Sorting/Merge_Sort.py	/^array = [5,9,3,10,45,2,0]$/;"	v
+array	pythonSamples2/Algorithms/Sorting/Quick_Sort.py	/^array = [5,9,3,10,45,2,0]$/;"	v
+array	pythonSamples2/Algorithms/Sorting/Selection_Sort.py	/^array = [5,9,3,10,45,2,0]$/;"	v
+array	pythonSamples2/Big-O/O(n^2).py	/^array = ['a','b','c','d','e']$/;"	v
+array	pythonSamples2/DS/Arrays/Contains_Duplicate.py	/^array = [1,2,46,32,98,61,34,46]$/;"	v
+array	pythonSamples2/DS/Arrays/Introduction.py	/^array = [5,8,2,9,17,43,25,10]$/;"	v
+array	pythonSamples2/DS/Arrays/Maximum_SubArray.py	/^array = [-2,1,-3,4,-1,2,1,-5,4]$/;"	v
+array	pythonSamples2/DS/Arrays/Move_Zeroes.py	/^array = [0,0,0,0,1,0,3,0,0,0,12,9,7]$/;"	v
+array	pythonSamples2/DS/Arrays/Rotate_Array.py	/^array = [1,2,3,4,5,6,7,8,9]$/;"	v
+array	pythonSamples2/DS/Hash Tables/First_Recurring_Character.py	/^array = [2,1,4,1,5,2,6]$/;"	v
+array	pythonSamples2/Google Interview Question.py	/^array = [1,2,4,5]$/;"	v
+array1	pythonSamples2/Algorithms/Sorting/Bubble_Sort.py	/^array1 = [5,9,3,10,45,2,0]$/;"	v
+array1	pythonSamples2/Big-O/O(m x n).py	/^array1 = ['a','b','c','d','e']$/;"	v
+array1	pythonSamples2/DS/Arrays/Merging_sorted_arrays.py	/^array1 = [1,3,5,7]$/;"	v
+array1	pythonSamples2/Interview Question 1.py	/^array1 = ['a','b','c','x']$/;"	v
+array2	pythonSamples2/Big-O/O(m x n).py	/^array2 = [1,2,3,4,5]$/;"	v
+array2	pythonSamples2/DS/Arrays/Merging_sorted_arrays.py	/^array2 = [2,4,6,8,10,12]$/;"	v
+array2	pythonSamples2/Interview Question 1.py	/^array2 = ['x','y','z']$/;"	v
+array_in	array_find_matching.py	/^array_in=[1,2,3,5,61,9,10,22]$/;"	v
+array_large	pythonSamples2/Big-O/O(1).py	/^array_large = ['nemo' for i in range(100000)]$/;"	v
+array_medium	pythonSamples2/Big-O/O(1).py	/^array_medium = ['nemo' for i in range(100)]$/;"	v
+array_small	pythonSamples2/Big-O/O(1).py	/^array_small = ['nemo' for i in range(10)]$/;"	v
+attack	dunder.py	/^    def attack(self):$/;"	m	class:Archer
+attack	dunder.py	/^    def attack(self):$/;"	m	class:Wizard
+attack	introspection.py	/^    def attack(self):$/;"	m	class:Archer
+attack	introspection.py	/^    def attack(self):$/;"	m	class:Wizard
+attack	oop.py	/^    def attack(self):$/;"	m	class:Archer
+attack	oop.py	/^    def attack(self):$/;"	m	class:Wizard
+attack	super.py	/^    def attack(self):$/;"	m	class:Archer
+attack	super.py	/^    def attack(self):$/;"	m	class:Wizard
+b	pythonSamples/Arrays/Merge Sorted Arrays.py	/^b=[2,3,4,5,6,9,11,76]$/;"	v
+better_duplicate_search	pythonSamples2/DS/Arrays/Contains_Duplicate.py	/^def better_duplicate_search(array):$/;"	f
+binary_search	pythonSamples2/Google Interview Question.py	/^def binary_search(array,left,right, ele):$/;"	f
+breadthfirstsearch	pythonSamples/Traversals/Breadth First Search.py	/^  def breadthfirstsearch(self):$/;"	m	class:BinarySearchTree
+brute_force_duplicate_search	pythonSamples2/DS/Arrays/Contains_Duplicate.py	/^def brute_force_duplicate_search(array):$/;"	f
+brute_force_matching_element	pythonSamples2/Interview Question 1.py	/^def brute_force_matching_element(array1, array2):$/;"	f
+brute_force_max_subarray	pythonSamples2/DS/Arrays/Maximum_SubArray.py	/^def brute_force_max_subarray(array):$/;"	f
+brute_force_pair_sum	pythonSamples2/Google Interview Question.py	/^def brute_force_pair_sum(array, sum):$/;"	f
+brute_force_rotation	pythonSamples2/DS/Arrays/Rotate_Array.py	/^def brute_force_rotation(array, k):$/;"	f
+bst	pythonSamples/Trees/Binary Search Tree.py	/^bst = BinarySearchTree()$/;"	v
+bubble_sort	pythonSamples2/Algorithms/Sorting/Bubble_Sort.py	/^def bubble_sort(array):$/;"	f
+bubblesort	pythonSamples/Sorting/Bubble sort.py	/^def bubblesort(arr):$/;"	f
+build_heap	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^def build_heap(array):$/;"	f
+cache	pythonSamples/Dynamic Programming/Fibonacci - DP.py	/^cache = {}$/;"	v
+cache	pythonSamples/Dynamic Programming/Memoization.py	/^cache = {}$/;"	v
+cache	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^cache = {}$/;"	v
+cache	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^cache = {}$/;"	v
+circ_list	pythonSamples/Linkedlist/Circular Linked List.py	/^circ_list = CircularLinkedList()$/;"	v
+count	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^count = 0$/;"	v
+count	pythonSamples2/Algorithms/Sorting/Merge_Sort.py	/^count = 0$/;"	v
+count	pythonSamples2/Algorithms/Sorting/Quick_Sort.py	/^count = 0$/;"	v
+d	pythonSamples/Linkedlist/Doubly Linked List.py	/^d = DoublyLinkedList()$/;"	v
+delete	pythonSamples/Arrays/Implementing an array.py	/^  def delete(self,index):$/;"	m	class:Array
+delete	pythonSamples2/DS/Arrays/Implementation.py	/^    def delete(self,index):$/;"	m	class:my_array
+delete_by_position	pythonSamples2/DS/Linked Lists/Doubly_Linked_Lists.py	/^    def delete_by_position(self, position):$/;"	m	class:DoublyLinkedList
+delete_by_position	pythonSamples2/DS/Linked Lists/Implementation.py	/^    def delete_by_position(self, position):$/;"	m	class:LinkedList
+delete_by_value	pythonSamples2/DS/Linked Lists/Doubly_Linked_Lists.py	/^    def delete_by_value(self, data):$/;"	m	class:DoublyLinkedList
+delete_by_value	pythonSamples2/DS/Linked Lists/Implementation.py	/^    def delete_by_value(self, data):$/;"	m	class:LinkedList
+dequeue	pythonSamples/StackAndQueue/Queue using Linked List.py	/^  def dequeue(self):$/;"	m	class:Queue
+dequeue	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^    def dequeue(self):$/;"	m	class:Queue
+dequeue	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^    def dequeue(self):$/;"	m	class:Queue
+dictionary	pythonSamples2/DS/Hash Tables/Introduction.py	/^dictionary = dict()$/;"	v
+dictionary	pythonSamples2/DS/Hash Tables/Introduction.py	/^dictionary = {'one':1, 'two':2, 'three':3, 'four':4, 'five':5}$/;"	v
+dynamic_fibonacci	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^def dynamic_fibonacci(n):$/;"	f
+easy_longest_word	pythonSamples2/DS/Arrays/Longest_Word.py	/^def easy_longest_word(string):$/;"	f
+enqueue	pythonSamples/StackAndQueue/Queue using Linked List.py	/^  def enqueue(self,val):$/;"	m	class:Queue
+enqueue	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^    def enqueue(self, data):$/;"	m	class:Queue
+enqueue	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^    def enqueue(self, data):$/;"	m	class:Queue
+everyone	pythonSamples2/Big-O/O(n).py	/^everyone = ['dory', 'bruce', 'marlin', 'nemo', 'gill', 'bloat', 'nigel', 'squirt', 'darla']$/;"	v
+extract_max	pythonSamples2/DS/Trees/Heap.py	/^    def extract_max(self):$/;"	m	class:MaxHeap
+fact	pythonSamples/Recursion/Factorial.py	/^def fact(num):$/;"	f
+factorial	pythonSamples/Recursion/Factorial.py	/^def factorial(num):$/;"	f
+fib	pythonSamples/Dynamic Programming/Fibonacci - DP.py	/^def fib(n):$/;"	f
+fib	pythonSamples/Recursion/Fibonacci.py	/^def fib(num):$/;"	f
+fibo	pythonSamples/Dynamic Programming/Fibonacci - DP.py	/^def fibo(n):$/;"	f
+fibonacci	pythonSamples/Recursion/Fibonacci.py	/^def fibonacci(num):$/;"	f
+fibonacci	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^def fibonacci(n):$/;"	f
+find_nemo	pythonSamples2/Big-O/O(m + n).py	/^def find_nemo(array1, array2):$/;"	f
+find_nemo	pythonSamples2/Big-O/O(n).py	/^def find_nemo(array):$/;"	f
+finding_nemo	pythonSamples2/Big-O/O(1).py	/^def finding_nemo(array):$/;"	f
+first_element	pythonSamples2/DS/Arrays/Introduction.py	/^first_element = array[0]  #This will return the first element of the array, in this case, 5, in O(1) time$/;"	v
+func	pythonSamples/Hashtables/First Recurring Character.py	/^def func(mylist):$/;"	f
+funchallenge	pythonSamples2/Big-O/O(n).py	/^def funchallenge(input):$/;"	f
+get	pythonSamples/Arrays/Implementing an array.py	/^  def get(self,index):$/;"	m	class:Array
+get	pythonSamples/Hashtables/Hash Table Implementation.py	/^	def get(self, key):$/;"	m	class:Hashtable
+get	pythonSamples2/DS/Arrays/Implementation.py	/^    def get(self, index):$/;"	m	class:my_array
+get	pythonSamples2/DS/Hash Tables/Implementation.py	/^    def get(self,key): #Function to return the value of the key entered by the user$/;"	m	class:hash_table
+h	pythonSamples/Hashtables/Hash Table Implementation.py	/^h=Hashtable()$/;"	v
+hash	pythonSamples/Hashtables/Hash Table Implementation.py	/^	def hash(self, key):$/;"	m	class:Hashtable
+hash_table	pythonSamples2/DS/Hash Tables/Implementation.py	/^class hash_table():$/;"	c
+hashtable	pythonSamples/Hashtables/First Recurring Character.py	/^def hashtable(mylist):$/;"	f
+heap_sort	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^def heap_sort(array):$/;"	f
+inorder	pythonSamples/Traversals/Depth First Search.py	/^  def inorder(self,currnode,mylist):$/;"	m	class:BinarySearchTree
+inorder_traversal	pythonSamples2/Algorithms/Traversals/DFS.py	/^def inorder_traversal(node, DFS_list):$/;"	f
+insert	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def insert(self,index,data):$/;"	m	class:DoublyLinkedList
+insert	pythonSamples/Linkedlist/Linked List.py	/^  def insert(self,index,data):$/;"	m	class:LinkedList
+insert	pythonSamples/Traversals/Breadth First Search.py	/^  def insert(self,val):$/;"	m	class:BinarySearchTree
+insert	pythonSamples/Traversals/Depth First Search.py	/^  def insert(self,val):$/;"	m	class:BinarySearchTree
+insert	pythonSamples/Trees/Binary Search Tree.py	/^  def insert(self,data):$/;"	m	class:BinarySearchTree
+insert	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def insert(self, data):$/;"	m	class:BST
+insert	pythonSamples2/Algorithms/Traversals/DFS.py	/^    def insert(self, data):$/;"	m	class:BST
+insert	pythonSamples2/DS/Arrays/Implementation.py	/^    def insert(self, index, item):$/;"	m	class:my_array
+insert	pythonSamples2/DS/Linked Lists/Doubly_Linked_Lists.py	/^    def insert(self, position, data):$/;"	m	class:DoublyLinkedList
+insert	pythonSamples2/DS/Linked Lists/Implementation.py	/^    def insert(self, position, data):$/;"	m	class:LinkedList
+insert	pythonSamples2/DS/Trees/Binary_Search_Tree.py	/^    def insert(self, data):$/;"	m	class:BST
+insert	pythonSamples2/DS/Trees/Heap.py	/^    def insert(self, element):$/;"	m	class:MaxHeap
+insert	pythonSamples2/DS/Trees/Trie.py	/^    def insert(self, string):$/;"	m	class:Trie
+insert_edge	pythonSamples2/DS/Graphs/Undirected_Graph_Implementation.py	/^    def insert_edge(self, vertex1, vertex2):$/;"	m	class:Graph
+insert_node	pythonSamples2/DS/Graphs/Undirected_Graph_Implementation.py	/^    def insert_node(self, data):$/;"	m	class:Graph
+insertion_sort	pythonSamples2/Algorithms/Sorting/Insertion_Sort.py	/^def insertion_sort(array):$/;"	f
+insertionsort	pythonSamples/Sorting/Insertion sort.py	/^def insertionsort(arr):$/;"	f
+is_empty	pythonSamples/Linkedlist/Circular Linked List.py	/^    def is_empty(self):$/;"	m	class:CircularLinkedList
+is_leaf	pythonSamples2/DS/Trees/Heap.py	/^    def is_leaf(self, pos):$/;"	m	class:MaxHeap
+iterative_factorial	pythonSamples2/Algorithms/Factorial.py	/^def iterative_factorial(number):$/;"	f
+iterative_fibonacci	pythonSamples2/Algorithms/Fibonacci.py	/^def iterative_fibonacci(index):$/;"	f
+iterative_reverse	pythonSamples2/Algorithms/Reverse_String.py	/^def iterative_reverse(string): #Here we use a second string to store the reversed version. Time and Space complexity = O(n)$/;"	f
+k	pythonSamples2/DS/Arrays/Rotate_Array.py	/^k = 11$/;"	v
+kadane	pythonSamples2/DS/Arrays/Maximum_SubArray.py	/^def kadane(array):$/;"	f
+keys	pythonSamples2/DS/Hash Tables/Implementation.py	/^    def keys(self): #Function to return all the keys$/;"	m	class:hash_table
+l	pythonSamples/Linkedlist/Linked List.py	/^l = LinkedList()$/;"	v
+large	pythonSamples2/Big-O/O(n).py	/^large = ['nemo' for i in range(100000)]$/;"	v
+large1	pythonSamples2/Big-O/O(m + n).py	/^large1 = ['nemo' for i in range(100000)]$/;"	v
+large2	pythonSamples2/Big-O/O(m + n).py	/^large2 = ['nemo' for i in range(100000)]$/;"	v
+left_child	pythonSamples2/DS/Trees/Heap.py	/^    def left_child(self, pos):$/;"	m	class:MaxHeap
+li	pythonSamples2/DS/Trees/Priority_Queues_Using_Heap.py	/^li = [5, 7, 9, 1, 3]$/;"	v
+li1	pythonSamples2/DS/Trees/Priority_Queues_Using_Heap.py	/^li1 = [5, 7, 9, 4, 3]$/;"	v
+li2	pythonSamples2/DS/Trees/Priority_Queues_Using_Heap.py	/^li2 = [5, 7, 9, 4, 3]$/;"	v
+list1	pythonSamples2/DS/Arrays/Reversing_String.py	/^list1 = list(string1)$/;"	v
+log_all_pairs	pythonSamples2/Big-O/O(n^2).py	/^def log_all_pairs(array):$/;"	f
+lookup	pythonSamples/Traversals/Breadth First Search.py	/^  def lookup(self,val):$/;"	m	class:BinarySearchTree
+lookup	pythonSamples/Traversals/Depth First Search.py	/^  def lookup(self,val):$/;"	m	class:BinarySearchTree
+lookup	pythonSamples/Trees/Binary Search Tree.py	/^  def lookup(self,data):$/;"	m	class:BinarySearchTree
+max_heapify	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^def max_heapify(array, heap_size, i):$/;"	f
+max_heapify	pythonSamples2/DS/Trees/Heap.py	/^    def max_heapify(self, pos):$/;"	m	class:MaxHeap
+memo	pythonSamples/Dynamic Programming/Memoization.py	/^memo = memoizedadd80()$/;"	v
+memoized	pythonSamples/Dynamic Programming/Memoization.py	/^  def memoized(n):$/;"	f	function:memoizedadd80
+memoized2add80	pythonSamples/Dynamic Programming/Memoization.py	/^def memoized2add80(n):$/;"	f
+memoizedadd80	pythonSamples/Dynamic Programming/Memoization.py	/^def memoizedadd80():$/;"	f
+memoizedadd80	pythonSamples/Dynamic Programming/Memoization.py	/^def memoizedadd80(n):$/;"	f
+merge	pythonSamples/Sorting/Merge sort.py	/^def merge(left,right):$/;"	f
+merge	pythonSamples2/Algorithms/Sorting/Merge_Sort.py	/^def merge(left, right):$/;"	f
+merge	pythonSamples2/DS/Arrays/Merging_sorted_arrays.py	/^def merge(array1, array2):$/;"	f
+merge_sort	pythonSamples2/Algorithms/Sorting/Merge_Sort.py	/^def merge_sort(array):$/;"	f
+mergesort	pythonSamples/Sorting/Merge sort.py	/^def mergesort(arr):$/;"	f
+mergesortedarr	pythonSamples/Arrays/Merge Sorted Arrays.py	/^def mergesortedarr(a,b):$/;"	f
+myGraph	pythonSamples/Graph/Graph Implementation.py	/^myGraph = Graph()$/;"	v
+my_array	pythonSamples2/DS/Arrays/Implementation.py	/^class my_array():$/;"	c
+my_bst	pythonSamples2/Algorithms/Traversals/BFS.py	/^my_bst = BST()$/;"	v
+my_bst	pythonSamples2/Algorithms/Traversals/DFS.py	/^my_bst = BST()$/;"	v
+my_bst	pythonSamples2/DS/Trees/Binary_Search_Tree.py	/^my_bst = BST()$/;"	v
+my_graph	pythonSamples2/DS/Graphs/Undirected_Graph_Implementation.py	/^my_graph = Graph()$/;"	v
+my_heap	pythonSamples2/DS/Trees/Heap.py	/^    my_heap = MaxHeap(15)$/;"	v	class:MaxHeap
+my_linked_list	pythonSamples2/DS/Linked Lists/Doubly_Linked_Lists.py	/^my_linked_list = DoublyLinkedList()$/;"	v
+my_linked_list	pythonSamples2/DS/Linked Lists/Implementation.py	/^    my_linked_list = LinkedList()$/;"	v	class:LinkedList
+my_linked_list	pythonSamples2/DS/Linked Lists/Reverse.py	/^my_linked_list = LinkedList()$/;"	v
+my_queue	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^my_queue = Queue()$/;"	v
+my_queue	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^my_queue = Queue()$/;"	v
+my_stack	pythonSamples2/DS/Stacks/Array_Implementation.py	/^my_stack = Stack()$/;"	v
+my_stack	pythonSamples2/DS/Stacks/Linked_List_Implementation.py	/^my_stack = Stack()$/;"	v
+my_trie	pythonSamples2/DS/Trees/Trie.py	/^my_trie = Trie()$/;"	v
+mylist	pythonSamples/Hashtables/First Recurring Character.py	/^mylist = [2,1,1,2,3,4,5]$/;"	v
+myq	pythonSamples/StackAndQueue/Queue using Linked List.py	/^myq = Queue()$/;"	v
+mystack	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^mystack = Stack()$/;"	v
+mystack	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^mystack = Stack()$/;"	v
+naive_frc	pythonSamples2/DS/Hash Tables/First_Recurring_Character.py	/^def naive_frc(array):$/;"	f
+naive_longest_word	pythonSamples2/DS/Arrays/Longest_Word.py	/^def naive_longest_word(string):$/;"	f
+naive_pattern_matching	pythonSamples2/DS/Hash Tables/Pattern_Matching.py	/^def naive_pattern_matching(string, pattern):$/;"	f
+naive_rotation	pythonSamples2/DS/Arrays/Rotate_Array.py	/^def naive_rotation(array, k):$/;"	f
+naive_zero_mover	pythonSamples2/DS/Arrays/Move_Zeroes.py	/^def naive_zero_mover(array):$/;"	f
+nemo	pythonSamples2/Big-O/O(n).py	/^nemo = ['nemo']$/;"	v
+new_array	pythonSamples2/Big-O/O(n^2).py	/^new_array = [1,2,3,4,5]$/;"	v
+new_hash	pythonSamples2/DS/Hash Tables/Implementation.py	/^new_hash = hash_table(2)$/;"	v
+numbers	pythonSamples/Sorting/Quick sort.py	/^numbers = [99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0]$/;"	v
+one_liner_move	pythonSamples2/DS/Arrays/Move_Zeroes.py	/^def one_liner_move(array):$/;"	f
+optimized_bubble_sort	pythonSamples2/Algorithms/Sorting/Bubble_Sort.py	/^def optimized_bubble_sort(array):$/;"	f
+pairs	pythonSamples2/Big-O/O(m x n).py	/^def pairs(array1, array2):$/;"	f
+parent	pythonSamples2/DS/Trees/Heap.py	/^    def parent(self, pos):$/;"	m	class:MaxHeap
+partition	pythonSamples/Sorting/Quick sort.py	/^def partition(array, pivot, left, right):$/;"	f
+partition	pythonSamples2/Algorithms/Sorting/Quick_Sort.py	/^def partition(array, left, right):$/;"	f
+pattern	pythonSamples2/DS/Hash Tables/Pattern_Matching.py	/^pattern = "AABA"$/;"	v
+peek	pythonSamples/StackAndQueue/Queue using Linked List.py	/^  def peek(self):$/;"	m	class:Queue
+peek	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^  def peek(self):$/;"	m	class:Stack
+peek	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^  def peek(self):$/;"	m	class:Stack
+peek	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^    def peek(self):$/;"	m	class:Queue
+peek	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^    def peek(self):$/;"	m	class:Queue
+peek	pythonSamples2/DS/Stacks/Array_Implementation.py	/^    def peek(self):$/;"	m	class:Stack
+peek	pythonSamples2/DS/Stacks/Linked_List_Implementation.py	/^    def peek(self):$/;"	m	class:Stack
+player_attack	introspection.py	/^def player_attack(character):$/;"	f
+player_attack	oop.py	/^def player_attack(character):$/;"	f
+player_attack	super.py	/^def player_attack(character):$/;"	f
+pop	pythonSamples/Arrays/Implementing an array.py	/^  def pop(self):$/;"	m	class:Array
+pop	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^  def pop(self):$/;"	m	class:Stack
+pop	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^  def pop(self):$/;"	m	class:Stack
+pop	pythonSamples2/DS/Arrays/Implementation.py	/^    def pop(self):$/;"	m	class:my_array
+pop	pythonSamples2/DS/Stacks/Array_Implementation.py	/^    def pop(self):$/;"	m	class:Stack
+pop	pythonSamples2/DS/Stacks/Linked_List_Implementation.py	/^    def pop(self):$/;"	m	class:Stack
+postorder	pythonSamples/Traversals/Depth First Search.py	/^  def postorder(self,currnode,mylist):$/;"	m	class:BinarySearchTree
+postorder_traversal	pythonSamples2/Algorithms/Traversals/DFS.py	/^def postorder_traversal(node, DFS_list):$/;"	f
+preorder	pythonSamples/Traversals/Depth First Search.py	/^  def preorder(self,currnode,mylist):$/;"	m	class:BinarySearchTree
+preorder_traversal	pythonSamples2/Algorithms/Traversals/DFS.py	/^def preorder_traversal(node,DFS_list):$/;"	f
+prepend	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def prepend(self,data):$/;"	m	class:DoublyLinkedList
+prepend	pythonSamples/Linkedlist/Linked List.py	/^  def prepend(self,data):$/;"	m	class:LinkedList
+prepend	pythonSamples2/DS/Linked Lists/Doubly_Linked_Lists.py	/^    def prepend(self, data):$/;"	m	class:DoublyLinkedList
+prepend	pythonSamples2/DS/Linked Lists/Implementation.py	/^    def prepend(self, data):$/;"	m	class:LinkedList
+print_heap	pythonSamples2/DS/Trees/Heap.py	/^    def print_heap(self):$/;"	m	class:MaxHeap
+print_list	pythonSamples/Linkedlist/Circular Linked List.py	/^    def print_list(self):$/;"	m	class:CircularLinkedList
+print_list	pythonSamples2/DS/Linked Lists/Doubly_Linked_Lists.py	/^    def print_list(self):$/;"	m	class:DoublyLinkedList
+print_list	pythonSamples2/DS/Linked Lists/Implementation.py	/^    def print_list(self):$/;"	m	class:LinkedList
+print_numbers_then_pairs	pythonSamples2/Big-O/O(n^2).py	/^def print_numbers_then_pairs(array):$/;"	f
+print_queue	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^    def print_queue(self):$/;"	m	class:Queue
+print_queue	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^    def print_queue(self):$/;"	m	class:Queue
+print_stack	pythonSamples2/DS/Stacks/Array_Implementation.py	/^    def print_stack(self):$/;"	m	class:Stack
+print_stack	pythonSamples2/DS/Stacks/Linked_List_Implementation.py	/^    def print_stack(self):$/;"	m	class:Stack
+print_tree	pythonSamples/Trees/Binary Search Tree.py	/^  def print_tree(self):$/;"	m	class:BinarySearchTree
+printl	pythonSamples/Linkedlist/Linked List.py	/^  def printl(self):$/;"	m	class:LinkedList
+printt	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def printt(self):$/;"	m	class:DoublyLinkedList
+printt	pythonSamples/StackAndQueue/Queue using Linked List.py	/^  def printt(self):$/;"	m	class:Queue
+printt	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^  def printt(self):$/;"	m	class:Stack
+printt	pythonSamples/Trees/Binary Search Tree.py	/^  def printt(self,curr_node):$/;"	m	class:BinarySearchTree
+push	pythonSamples/Arrays/Implementing an array.py	/^  def push(self,item):$/;"	m	class:Array
+push	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^  def push(self,value):$/;"	m	class:Stack
+push	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^  def push(self,data):$/;"	m	class:Stack
+push	pythonSamples2/DS/Arrays/Implementation.py	/^    def push(self, item):$/;"	m	class:my_array
+push	pythonSamples2/DS/Stacks/Array_Implementation.py	/^    def push(self, data):$/;"	m	class:Stack
+push	pythonSamples2/DS/Stacks/Linked_List_Implementation.py	/^    def push(self, data):$/;"	m	class:Stack
+put	pythonSamples/Hashtables/Hash Table Implementation.py	/^	def put(self, key, value):$/;"	m	class:Hashtable
+quick_sort	pythonSamples2/Algorithms/Sorting/Quick_Sort.py	/^def quick_sort(array, left, right):$/;"	f
+quicksort	pythonSamples/Sorting/Quick sort.py	/^def quicksort(array,left,right):$/;"	f
+qw	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^qw = mystack.peek()$/;"	v
+rabin_karp	pythonSamples2/DS/Hash Tables/Pattern_Matching.py	/^def rabin_karp(string, pattern, prime):$/;"	f
+recursive_factorial	pythonSamples2/Algorithms/Factorial.py	/^def recursive_factorial(number):$/;"	f
+recursive_fibonacci	pythonSamples2/Algorithms/Fibonacci.py	/^def recursive_fibonacci(index):$/;"	f
+recursive_reverse	pythonSamples2/Algorithms/Reverse_String.py	/^def recursive_reverse(string):$/;"	f
+recursivebfs	pythonSamples/Traversals/Breadth First Search.py	/^  def recursivebfs(self,queue,mylist):$/;"	m	class:BinarySearchTree
+regex	pythonSamples2/DS/Arrays/Longest_Word.py	/^def regex(string):$/;"	f
+remove	pythonSamples/Hashtables/Hash Table Implementation.py	/^	def remove(self, key):$/;"	m	class:Hashtable
+remove	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def remove(self,index):$/;"	m	class:DoublyLinkedList
+remove	pythonSamples/Linkedlist/Linked List.py	/^  def remove(self,index):$/;"	m	class:LinkedList
+remove	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def remove(self, data):$/;"	m	class:BST
+remove	pythonSamples2/Algorithms/Traversals/DFS.py	/^    def remove(self, data):$/;"	m	class:BST
+remove	pythonSamples2/DS/Trees/Binary_Search_Tree.py	/^    def remove(self, data):$/;"	m	class:BST
+remove_first	pythonSamples/Linkedlist/Circular Linked List.py	/^    def remove_first(self):$/;"	m	class:CircularLinkedList
+remove_last	pythonSamples/Linkedlist/Circular Linked List.py	/^    def remove_last(self):$/;"	m	class:CircularLinkedList
+remove_particular	pythonSamples/Linkedlist/Circular Linked List.py	/^    def remove_particular(self, position):$/;"	m	class:CircularLinkedList
+reverse	pythonSamples/Arrays/Reversing a string.py	/^def reverse(stri):$/;"	f
+reverse	pythonSamples/Linkedlist/Linked List.py	/^  def reverse(self):$/;"	m	class:LinkedList
+reverse	pythonSamples/Recursion/Reversing a string using Recursion.py	/^def reverse(word):$/;"	f
+reverse	pythonSamples2/DS/Arrays/Rotate_Array.py	/^def reverse(array, start, end): #Function to reverse the elements of array from index start to index end$/;"	f
+reverse	pythonSamples2/DS/Linked Lists/Reverse.py	/^def reverse(linked_list):$/;"	f
+reverse_rotate	pythonSamples2/DS/Arrays/Rotate_Array.py	/^def reverse_rotate(array, k):$/;"	f
+reverse_sorted_array	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^reverse_sorted_array = [9,8,7,6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10]$/;"	v
+reverse_sorted_array	pythonSamples2/Algorithms/Sorting/Insertion_Sort.py	/^reverse_sorted_array = [9,8,7,6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10]$/;"	v
+reverse_sorted_array	pythonSamples2/Algorithms/Sorting/Merge_Sort.py	/^reverse_sorted_array = [9,8,7,6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10]$/;"	v
+reverse_sorted_array	pythonSamples2/Algorithms/Sorting/Quick_Sort.py	/^reverse_sorted_array = [9,8,7,6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10]$/;"	v
+reverse_sorted_array	pythonSamples2/Algorithms/Sorting/Selection_Sort.py	/^reverse_sorted_array = [9,8,7,6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10]$/;"	v
+reversed_linked_list	pythonSamples2/DS/Linked Lists/Reverse.py	/^reversed_linked_list = reverse(my_linked_list)$/;"	v
+right_child	pythonSamples2/DS/Trees/Heap.py	/^    def right_child(self, pos):$/;"	m	class:MaxHeap
+search	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def search(self,data):$/;"	m	class:BST
+search	pythonSamples2/Algorithms/Traversals/DFS.py	/^    def search(self,data):$/;"	m	class:BST
+search	pythonSamples2/DS/Trees/Binary_Search_Tree.py	/^    def search(self,data):$/;"	m	class:BST
+search	pythonSamples2/DS/Trees/Trie.py	/^    def search(self, string):$/;"	m	class:Trie
+second_iterative_reverse	pythonSamples2/Algorithms/Reverse_String.py	/^def second_iterative_reverse(string):$/;"	f
+selection_sort	pythonSamples2/Algorithms/Sorting/Selection_Sort.py	/^def selection_sort(array):$/;"	f
+selectionsort	pythonSamples/Sorting/Selection sort.py	/^def selectionsort(arr):$/;"	f
+set	pythonSamples2/DS/Hash Tables/Implementation.py	/^    def set(self, key, value): #Function to insert a new key, value pair$/;"	m	class:hash_table
+show_connections	pythonSamples2/DS/Graphs/Undirected_Graph_Implementation.py	/^    def show_connections(self):$/;"	m	class:Graph
+showconnection	pythonSamples/Graph/Graph Implementation.py	/^  def showconnection(self):$/;"	m	class:Graph
+sign_in	dunder.py	/^    def sign_in(self):$/;"	m	class:User
+sign_in	introspection.py	/^    def sign_in(self):$/;"	m	class:User
+sign_in	oop.py	/^    def sign_in(self):$/;"	m	class:User
+sign_in	super.py	/^    def sign_in(self):$/;"	m	class:User
+simple_frc	pythonSamples2/DS/Hash Tables/First_Recurring_Character.py	/^def simple_frc(array):$/;"	f
+simple_reverse	pythonSamples2/DS/Arrays/Reversing_String.py	/^def simple_reverse(string):$/;"	f
+sixth_element	pythonSamples2/DS/Arrays/Introduction.py	/^sixth_element = array[5]  #sixth-element = 43 Again, in O(1) time$/;"	v
+size	array_find_matching.py	/^size=len(array_in)$/;"	v
+slightly_better_pair_sum	pythonSamples2/Google Interview Question.py	/^def slightly_better_pair_sum(array, sum):$/;"	f
+smart_duplicate_search	pythonSamples2/DS/Arrays/Contains_Duplicate.py	/^def smart_duplicate_search(array):$/;"	f
+smart_pair_sum	pythonSamples2/Google Interview Question.py	/^def smart_pair_sum(array, sum):$/;"	f
+smarter_matching	pythonSamples2/Interview Question 1.py	/^def smarter_matching(array1, array2):$/;"	f
+smarter_matching2	pythonSamples2/Interview Question 1.py	/^def smarter_matching2(array1, array2):$/;"	f
+smarter_reverse	pythonSamples2/DS/Arrays/Reversing_String.py	/^def smarter_reverse(string):$/;"	f
+smartest_pair_sum	pythonSamples2/Google Interview Question.py	/^def smartest_pair_sum(array, sum):$/;"	f
+sort_pair_sum	pythonSamples2/Google Interview Question.py	/^def sort_pair_sum(array, sum):$/;"	f
+sorted_array	pythonSamples2/Algorithms/Sorting/Bubble_Sort.py	/^sorted_array = [5,6,7,8,9]$/;"	v
+sorted_array	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^sorted_array = [5,6,7,8,9]$/;"	v
+sorted_array	pythonSamples2/Algorithms/Sorting/Insertion_Sort.py	/^sorted_array = [5,6,7,8,9]$/;"	v
+sorted_array	pythonSamples2/Algorithms/Sorting/Merge_Sort.py	/^sorted_array = [5,6,7,8,9]$/;"	v
+sorted_array	pythonSamples2/Algorithms/Sorting/Quick_Sort.py	/^sorted_array = [5,6,7,8,9]$/;"	v
+sorted_array	pythonSamples2/Algorithms/Sorting/Selection_Sort.py	/^sorted_array = [5,6,7,8,9]$/;"	v
+sorted_array1	pythonSamples2/Algorithms/Sorting/Bubble_Sort.py	/^sorted_array1 = [5,6,7,8,9]$/;"	v
+squaring	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^def squaring(number):$/;"	f
+squaring_with_memoization	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^def squaring_with_memoization(number):$/;"	f
+squaring_without_memoization	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^def squaring_without_memoization(number): #Function to calculate the suare of a number$/;"	f
+sss	pythonSamples2/DS/Arrays/Longest_Word.py	/^sss = "Hello there how are you"$/;"	v
+string	pythonSamples2/DS/Arrays/Longest_Word.py	/^string = 'fun!@#$# times'$/;"	v
+string	pythonSamples2/DS/Arrays/Reversing_String.py	/^string = "Hello"$/;"	v
+string	pythonSamples2/DS/Hash Tables/Pattern_Matching.py	/^string = "AABAACAADAABAABA"$/;"	v
+string1	pythonSamples2/DS/Arrays/Reversing_String.py	/^string1 = 'abcde'$/;"	v
+string2	pythonSamples2/DS/Arrays/Reversing_String.py	/^string2 = reversed(string1)$/;"	v
+strings	pythonSamples/Arrays/Arrays.py	/^strings = ['a','b','c','d']$/;"	v
+sum	pythonSamples2/Google Interview Question.py	/^sum = 3$/;"	v
+super_list1	ex_extending_list.py	/^super_list1=SuperList();$/;"	v
+swap	pythonSamples/Sorting/Quick sort.py	/^def swap(array, firstindex, secondindex):$/;"	f
+swap	pythonSamples2/DS/Arrays/Reversing_String.py	/^def swap(string, a, b): #Function which swaps two characters of a string$/;"	f
+swap	pythonSamples2/DS/Trees/Heap.py	/^    def swap(self, fpos, spos):$/;"	m	class:MaxHeap
+swap_move	pythonSamples2/DS/Arrays/Move_Zeroes.py	/^def swap_move(array):$/;"	f
+t1	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^t1 = time.time()$/;"	v
+t1	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^t1 = time.time()$/;"	v
+t2	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^t2 = time.time()$/;"	v
+t2	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^t2 = time.time()$/;"	v
+times	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^times =[]$/;"	v
+total	array_find_matching.py	/^total = 16$/;"	v
+traversetoindex	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def traversetoindex(self,index):$/;"	m	class:DoublyLinkedList
+tree	pythonSamples/Traversals/Breadth First Search.py	/^tree = BinarySearchTree()$/;"	v
+tree	pythonSamples/Traversals/Depth First Search.py	/^tree = BinarySearchTree()$/;"	v
+values	pythonSamples2/DS/Hash Tables/Implementation.py	/^    def values(self): #Function to return all the values, with exactly the same logic as the keys function$/;"	m	class:hash_table
+wizard1	dunder.py	/^wizard1=Wizard('WizardName', 60, 'itsmesanju@gmail.com')$/;"	v
+wizard1	introspection.py	/^wizard1=Wizard('WizardName', 60, 'itsmesanju@gmail.com')$/;"	v
+wizard1	oop.py	/^wizard1=Wizard('WizardName', 60)$/;"	v
+wizard1	super.py	/^wizard1=Wizard('WizardName', 60, 'itsmesanju@gmail.com')$/;"	v
+wizard2	oop.py	/^wizard2=Wizard('Wizard2', 60)$/;"	v
+x	pythonSamples/Arrays/Merge Sorted Arrays.py	/^x=mergesortedarr(a,b)$/;"	v
+x	pythonSamples/Arrays/Reversing a string.py	/^x=reverse('I am theja')$/;"	v
+x	pythonSamples/Dynamic Programming/Fibonacci - DP.py	/^x = fibo(8)$/;"	v
+x	pythonSamples/Hashtables/First Recurring Character.py	/^x = hashtable(mylist)$/;"	v
+x	pythonSamples/Sorting/Merge sort.py	/^x = mergesort(arr)$/;"	v
+x	pythonSamples/StackAndQueue/Queue using Linked List.py	/^x = myq.peek()$/;"	v
+x	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^x = mystack.peek()$/;"	v
+x	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^x = mystack.peek()$/;"	v
+x	pythonSamples/Traversals/Breadth First Search.py	/^x = tree.lookup(170)$/;"	v
+x	pythonSamples/Trees/Binary Search Tree.py	/^x = bst.lookup(6)$/;"	v
+x	pythonSamples/Trees/Heapq in python.py	/^x = [5,2,8,1,6,7,4,9]$/;"	v
+y	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^y=mystack.pop()$/;"	v
+y	pythonSamples/Trees/Binary Search Tree.py	/^y = bst.lookup(99)$/;"	v
