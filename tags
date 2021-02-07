@@ -46,6 +46,8 @@ Queue	pythonSamples/StackAndQueue/Queue using Linked List.py	/^class Queue:$/;"	
 Queue	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^class Queue():$/;"	c
 Queue	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^class Queue():$/;"	c
 Recursive_BFS	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def Recursive_BFS(self, queue, BFS_list):$/;"	m	class:BST
+Solution	leetCode/1.twoSum.py	/^class Solution:$/;"	c
+Solution	leetCode/7.reverseInteger.py	/^class Solution:$/;"	c
 Stack	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^class Stack:$/;"	c
 Stack	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^class Stack:$/;"	c
 Stack	pythonSamples2/DS/Stacks/Array_Implementation.py	/^class Stack():$/;"	c
@@ -170,7 +172,7 @@ array1	pythonSamples2/Interview Question 1.py	/^array1 = ['a','b','c','x']$/;"	v
 array2	pythonSamples2/Big-O/O(m x n).py	/^array2 = [1,2,3,4,5]$/;"	v
 array2	pythonSamples2/DS/Arrays/Merging_sorted_arrays.py	/^array2 = [2,4,6,8,10,12]$/;"	v
 array2	pythonSamples2/Interview Question 1.py	/^array2 = ['x','y','z']$/;"	v
-array_in	array_find_matching.py	/^array_in=[1,2,3,5,61,9,10,22]$/;"	v
+array_in	leetCode/array_find_matching.py	/^array_in=[1,2,3,5,61,9,10,22]$/;"	v
 array_large	pythonSamples2/Big-O/O(1).py	/^array_large = ['nemo' for i in range(100000)]$/;"	v
 array_medium	pythonSamples2/Big-O/O(1).py	/^array_medium = ['nemo' for i in range(100)]$/;"	v
 array_small	pythonSamples2/Big-O/O(1).py	/^array_small = ['nemo' for i in range(10)]$/;"	v
@@ -396,6 +398,7 @@ remove	pythonSamples2/DS/Trees/Binary_Search_Tree.py	/^    def remove(self, data
 remove_first	pythonSamples/Linkedlist/Circular Linked List.py	/^    def remove_first(self):$/;"	m	class:CircularLinkedList
 remove_last	pythonSamples/Linkedlist/Circular Linked List.py	/^    def remove_last(self):$/;"	m	class:CircularLinkedList
 remove_particular	pythonSamples/Linkedlist/Circular Linked List.py	/^    def remove_particular(self, position):$/;"	m	class:CircularLinkedList
+reverse	leetCode/7.reverseInteger.py	/^    def reverse(self, x: int) -> int:$/;"	m	class:Solution
 reverse	pythonSamples/Arrays/Reversing a string.py	/^def reverse(stri):$/;"	f
 reverse	pythonSamples/Linkedlist/Linked List.py	/^  def reverse(self):$/;"	m	class:LinkedList
 reverse	pythonSamples/Recursion/Reversing a string using Recursion.py	/^def reverse(word):$/;"	f
@@ -426,7 +429,7 @@ sign_in	super.py	/^    def sign_in(self):$/;"	m	class:User
 simple_frc	pythonSamples2/DS/Hash Tables/First_Recurring_Character.py	/^def simple_frc(array):$/;"	f
 simple_reverse	pythonSamples2/DS/Arrays/Reversing_String.py	/^def simple_reverse(string):$/;"	f
 sixth_element	pythonSamples2/DS/Arrays/Introduction.py	/^sixth_element = array[5]  #sixth-element = 43 Again, in O(1) time$/;"	v
-size	array_find_matching.py	/^size=len(array_in)$/;"	v
+size	leetCode/array_find_matching.py	/^size=len(array_in)$/;"	v
 slightly_better_pair_sum	pythonSamples2/Google Interview Question.py	/^def slightly_better_pair_sum(array, sum):$/;"	f
 smart_duplicate_search	pythonSamples2/DS/Arrays/Contains_Duplicate.py	/^def smart_duplicate_search(array):$/;"	f
 smart_pair_sum	pythonSamples2/Google Interview Question.py	/^def smart_pair_sum(array, sum):$/;"	f
@@ -463,10 +466,11 @@ t1	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^t1 = time.time
 t2	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^t2 = time.time()$/;"	v
 t2	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^t2 = time.time()$/;"	v
 times	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^times =[]$/;"	v
-total	array_find_matching.py	/^total = 16$/;"	v
+total	leetCode/array_find_matching.py	/^total = 16$/;"	v
 traversetoindex	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def traversetoindex(self,index):$/;"	m	class:DoublyLinkedList
 tree	pythonSamples/Traversals/Breadth First Search.py	/^tree = BinarySearchTree()$/;"	v
 tree	pythonSamples/Traversals/Depth First Search.py	/^tree = BinarySearchTree()$/;"	v
+twoSum	leetCode/1.twoSum.py	/^    def twoSum(self, nums: List[int], target: int) -> List[int]:$/;"	m	class:Solution
 values	pythonSamples2/DS/Hash Tables/Implementation.py	/^    def values(self): #Function to return all the values, with exactly the same logic as the keys function$/;"	m	class:hash_table
 wizard1	dunder.py	/^wizard1=Wizard('WizardName', 60, 'itsmesanju@gmail.com')$/;"	v
 wizard1	introspection.py	/^wizard1=Wizard('WizardName', 60, 'itsmesanju@gmail.com')$/;"	v
