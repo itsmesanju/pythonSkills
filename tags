@@ -47,6 +47,12 @@ Queue	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^class Queue():$/;
 Queue	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^class Queue():$/;"	c
 Recursive_BFS	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def Recursive_BFS(self, queue, BFS_list):$/;"	m	class:BST
 Solution	leetCode/1.twoSum.py	/^class Solution:$/;"	c
+Solution	leetCode/11.container_with_most_water.py	/^class Solution:$/;"	c
+Solution	leetCode/11.container_with_most_water_Optimized.py	/^class Solution:$/;"	c
+Solution	leetCode/125.valid_Palindrome.py	/^class Solution:$/;"	c
+Solution	leetCode/125.valid_Palindrome_optimized_with_re.py	/^class Solution:$/;"	c
+Solution	leetCode/42.Trapping_rain_water.py	/^class Solution:$/;"	c
+Solution	leetCode/42.Trapping_rain_water_BruteForce.py	/^class Solution:$/;"	c
 Solution	leetCode/7.reverseInteger.py	/^class Solution:$/;"	c
 Stack	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^class Stack:$/;"	c
 Stack	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^class Stack:$/;"	c
@@ -265,6 +271,8 @@ insert_edge	pythonSamples2/DS/Graphs/Undirected_Graph_Implementation.py	/^    de
 insert_node	pythonSamples2/DS/Graphs/Undirected_Graph_Implementation.py	/^    def insert_node(self, data):$/;"	m	class:Graph
 insertion_sort	pythonSamples2/Algorithms/Sorting/Insertion_Sort.py	/^def insertion_sort(array):$/;"	f
 insertionsort	pythonSamples/Sorting/Insertion sort.py	/^def insertionsort(arr):$/;"	f
+isPalindrome	leetCode/125.valid_Palindrome.py	/^    def isPalindrome(self, s: str) -> bool:$/;"	m	class:Solution
+isPalindrome	leetCode/125.valid_Palindrome_optimized_with_re.py	/^    def isPalindrome(self, s: str) -> bool:$/;"	m	class:Solution
 is_empty	pythonSamples/Linkedlist/Circular Linked List.py	/^    def is_empty(self):$/;"	m	class:CircularLinkedList
 is_leaf	pythonSamples2/DS/Trees/Heap.py	/^    def is_leaf(self, pos):$/;"	m	class:MaxHeap
 iterative_factorial	pythonSamples2/Algorithms/Factorial.py	/^def iterative_factorial(number):$/;"	f
@@ -286,6 +294,8 @@ log_all_pairs	pythonSamples2/Big-O/O(n^2).py	/^def log_all_pairs(array):$/;"	f
 lookup	pythonSamples/Traversals/Breadth First Search.py	/^  def lookup(self,val):$/;"	m	class:BinarySearchTree
 lookup	pythonSamples/Traversals/Depth First Search.py	/^  def lookup(self,val):$/;"	m	class:BinarySearchTree
 lookup	pythonSamples/Trees/Binary Search Tree.py	/^  def lookup(self,data):$/;"	m	class:BinarySearchTree
+maxArea	leetCode/11.container_with_most_water.py	/^    def maxArea(self, height: List[int]) -> int:$/;"	m	class:Solution
+maxArea	leetCode/11.container_with_most_water_Optimized.py	/^    def maxArea(self, height: List[int]) -> int:$/;"	m	class:Solution
 max_heapify	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^def max_heapify(array, heap_size, i):$/;"	f
 max_heapify	pythonSamples2/DS/Trees/Heap.py	/^    def max_heapify(self, pos):$/;"	m	class:MaxHeap
 memo	pythonSamples/Dynamic Programming/Memoization.py	/^memo = memoizedadd80()$/;"	v
@@ -467,6 +477,8 @@ t2	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^t2 = time.time()
 t2	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^t2 = time.time()$/;"	v
 times	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^times =[]$/;"	v
 total	leetCode/array_find_matching.py	/^total = 16$/;"	v
+trap	leetCode/42.Trapping_rain_water.py	/^    def trap(self, height: List[int]) -> int:$/;"	m	class:Solution
+trap	leetCode/42.Trapping_rain_water_BruteForce.py	/^    def trap(self, height: List[int]) -> int:$/;"	m	class:Solution
 traversetoindex	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def traversetoindex(self,index):$/;"	m	class:DoublyLinkedList
 tree	pythonSamples/Traversals/Breadth First Search.py	/^tree = BinarySearchTree()$/;"	v
 tree	pythonSamples/Traversals/Depth First Search.py	/^tree = BinarySearchTree()$/;"	v
