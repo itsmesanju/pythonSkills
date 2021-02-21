@@ -1,5 +1,5 @@
 array_in=[1,2,3,5,61,9,10,22]
-total = 16
+total = 66
 size=len(array_in)
 
 for i in range(size):
