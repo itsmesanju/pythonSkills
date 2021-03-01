@@ -47,13 +47,32 @@ Queue	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^class Queue():$/;
 Queue	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^class Queue():$/;"	c
 Recursive_BFS	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def Recursive_BFS(self, queue, BFS_list):$/;"	m	class:BST
 Solution	leetCode/1.twoSum.py	/^class Solution:$/;"	c
+Solution	leetCode/100.Minimum_parentheses_to_add.py	/^    def minAddToMakeValid(self, S):$/;"	c
+Solution	leetCode/100.Minimum_parentheses_to_add.py	/^class Solution:$/;"	c
+Solution	leetCode/101_symmetric_tree_with_null_handling.py	/^class Solution:$/;"	c
+Solution	leetCode/101_symmetric_tree_without_null_handling.py	/^class Solution:$/;"	c
 Solution	leetCode/11.container_with_most_water.py	/^class Solution:$/;"	c
 Solution	leetCode/11.container_with_most_water_Optimized.py	/^class Solution:$/;"	c
+Solution	leetCode/12.Integer_to_Roman.py	/^class Solution:$/;"	c
+Solution	leetCode/121.Best_time_to_buy_sell_stocks.py	/^class Solution(object):$/;"	c
 Solution	leetCode/125.valid_Palindrome.py	/^class Solution:$/;"	c
 Solution	leetCode/125.valid_Palindrome_optimized_with_re.py	/^class Solution:$/;"	c
+Solution	leetCode/125.valid_Palindrome_two_pointer.py	/^class Solution(object):$/;"	c
+Solution	leetCode/20.valid_parantheses.py	/^class Solution(object):$/;"	c
+Solution	leetCode/20.valid_parantheses_stack.py	/^class Solution:$/;"	c
+Solution	leetCode/206.Reverse_linked_list.iterative.py	/^class Solution:$/;"	c
+Solution	leetCode/206.Reverse_linked_list.recursive.py	/^class Solution:        $/;"	c
+Solution	leetCode/273.Integers_to_english_words_translation.py	/^class Solution:$/;"	c
+Solution	leetCode/3.longest_subString_without_repeating_character_BruteForce.py	/^class Solution:$/;"	c
+Solution	leetCode/387.First_Unique_Character_in_String.py	/^class Solution(object):$/;"	c
+Solution	leetCode/387.First_Unique_Character_in_String.py	/^class Solution:$/;"	c
 Solution	leetCode/42.Trapping_rain_water.py	/^class Solution:$/;"	c
 Solution	leetCode/42.Trapping_rain_water_BruteForce.py	/^class Solution:$/;"	c
 Solution	leetCode/7.reverseInteger.py	/^class Solution:$/;"	c
+Solution	leetCode/788.rotated_digits_using_hash_map.py	/^class Solution:$/;"	c
+Solution	leetCode/788.rotated_digits_using_simple.py	/^class Solution:$/;"	c
+Solution	leetCode/844.Typed_out_string_match_BackspaceStringComapre_.py	/^class Solution:$/;"	c
+Solution	leetCode/validate_one_type_of_paranthesis.py	/^class Solution:$/;"	c
 Stack	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^class Stack:$/;"	c
 Stack	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^class Stack:$/;"	c
 Stack	pythonSamples2/DS/Stacks/Array_Implementation.py	/^class Stack():$/;"	c
@@ -178,6 +197,7 @@ array1	pythonSamples2/Interview Question 1.py	/^array1 = ['a','b','c','x']$/;"	v
 array2	pythonSamples2/Big-O/O(m x n).py	/^array2 = [1,2,3,4,5]$/;"	v
 array2	pythonSamples2/DS/Arrays/Merging_sorted_arrays.py	/^array2 = [2,4,6,8,10,12]$/;"	v
 array2	pythonSamples2/Interview Question 1.py	/^array2 = ['x','y','z']$/;"	v
+array_in	array_find_matching.py	/^array_in=[1,2,3,5,61,9,10,22]$/;"	v
 array_in	leetCode/array_find_matching.py	/^array_in=[1,2,3,5,61,9,10,22]$/;"	v
 array_large	pythonSamples2/Big-O/O(1).py	/^array_large = ['nemo' for i in range(100000)]$/;"	v
 array_medium	pythonSamples2/Big-O/O(1).py	/^array_medium = ['nemo' for i in range(100)]$/;"	v
@@ -191,6 +211,7 @@ attack	oop.py	/^    def attack(self):$/;"	m	class:Wizard
 attack	super.py	/^    def attack(self):$/;"	m	class:Archer
 attack	super.py	/^    def attack(self):$/;"	m	class:Wizard
 b	pythonSamples/Arrays/Merge Sorted Arrays.py	/^b=[2,3,4,5,6,9,11,76]$/;"	v
+backspaceCompare	leetCode/844.Typed_out_string_match_BackspaceStringComapre_.py	/^    def backspaceCompare(self, S: str, T: str) -> bool:$/;"	m	class:Solution
 better_duplicate_search	pythonSamples2/DS/Arrays/Contains_Duplicate.py	/^def better_duplicate_search(array):$/;"	f
 binary_search	pythonSamples2/Google Interview Question.py	/^def binary_search(array,left,right, ele):$/;"	f
 breadthfirstsearch	pythonSamples/Traversals/Breadth First Search.py	/^  def breadthfirstsearch(self):$/;"	m	class:BinarySearchTree
@@ -207,7 +228,10 @@ cache	pythonSamples/Dynamic Programming/Fibonacci - DP.py	/^cache = {}$/;"	v
 cache	pythonSamples/Dynamic Programming/Memoization.py	/^cache = {}$/;"	v
 cache	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^cache = {}$/;"	v
 cache	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^cache = {}$/;"	v
+checkFunction	array_elements_both_side_equal_balancing.py	/^def checkFunction(arr, size) : $/;"	f
+checkNodes	leetCode/101_symmetric_tree_with_null_handling.py	/^    def checkNodes(self,left,right):$/;"	m	class:Solution
 circ_list	pythonSamples/Linkedlist/Circular Linked List.py	/^circ_list = CircularLinkedList()$/;"	v
+convertThreeDigit	leetCode/273.Integers_to_english_words_translation.py	/^            def convertThreeDigit(num):$/;"	f	function:Solution.numberToWords
 count	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^count = 0$/;"	v
 count	pythonSamples2/Algorithms/Sorting/Merge_Sort.py	/^count = 0$/;"	v
 count	pythonSamples2/Algorithms/Sorting/Quick_Sort.py	/^count = 0$/;"	v
@@ -240,6 +264,8 @@ fibonacci	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^def fibon
 find_nemo	pythonSamples2/Big-O/O(m + n).py	/^def find_nemo(array1, array2):$/;"	f
 find_nemo	pythonSamples2/Big-O/O(n).py	/^def find_nemo(array):$/;"	f
 finding_nemo	pythonSamples2/Big-O/O(1).py	/^def finding_nemo(array):$/;"	f
+firstUniqChar	leetCode/387.First_Unique_Character_in_String.py	/^    def firstUniqChar(self, s: str) -> int:$/;"	m	class:Solution
+firstUniqChar	leetCode/387.First_Unique_Character_in_String.py	/^def firstUniqChar(self, s):$/;"	f
 first_element	pythonSamples2/DS/Arrays/Introduction.py	/^first_element = array[0]  #This will return the first element of the array, in this case, 5, in O(1) time$/;"	v
 func	pythonSamples/Hashtables/First Recurring Character.py	/^def func(mylist):$/;"	f
 funchallenge	pythonSamples2/Big-O/O(n).py	/^def funchallenge(input):$/;"	f
@@ -271,8 +297,17 @@ insert_edge	pythonSamples2/DS/Graphs/Undirected_Graph_Implementation.py	/^    de
 insert_node	pythonSamples2/DS/Graphs/Undirected_Graph_Implementation.py	/^    def insert_node(self, data):$/;"	m	class:Graph
 insertion_sort	pythonSamples2/Algorithms/Sorting/Insertion_Sort.py	/^def insertion_sort(array):$/;"	f
 insertionsort	pythonSamples/Sorting/Insertion sort.py	/^def insertionsort(arr):$/;"	f
+intToRoman	leetCode/12.Integer_to_Roman.py	/^    def intToRoman(self, num: int) -> str:$/;"	m	class:Solution
 isPalindrome	leetCode/125.valid_Palindrome.py	/^    def isPalindrome(self, s: str) -> bool:$/;"	m	class:Solution
 isPalindrome	leetCode/125.valid_Palindrome_optimized_with_re.py	/^    def isPalindrome(self, s: str) -> bool:$/;"	m	class:Solution
+isPalindrome	leetCode/125.valid_Palindrome_two_pointer.py	/^    def isPalindrome(self, s):$/;"	m	class:Solution
+isSameTree	leetCode/100.Same_tree_recursion.py	/^    def isSameTree(self, p, q):$/;"	f
+isSymmetric	leetCode/101_symmetric_tree_with_null_handling.py	/^    def isSymmetric(self, root: TreeNode) -> bool:$/;"	m	class:Solution
+isSymmetric	leetCode/101_symmetric_tree_without_null_handling.py	/^    def isSymmetric(self, root: TreeNode) -> bool:$/;"	m	class:Solution
+isSymmetric	leetCode/101_symmetric_tree_without_null_handling.py	/^def isSymmetric(self, root: TreeNode) -> bool:$/;"	f
+isValid	leetCode/20.valid_parantheses.py	/^    def isValid(self, s):$/;"	m	class:Solution
+isValid	leetCode/20.valid_parantheses_stack.py	/^    def isValid(self, s: str) -> bool:$/;"	m	class:Solution
+isValid	leetCode/validate_one_type_of_paranthesis.py	/^    def isValid(self, s: str) -> bool:$/;"	m	class:Solution
 is_empty	pythonSamples/Linkedlist/Circular Linked List.py	/^    def is_empty(self):$/;"	m	class:CircularLinkedList
 is_leaf	pythonSamples2/DS/Trees/Heap.py	/^    def is_leaf(self, pos):$/;"	m	class:MaxHeap
 iterative_factorial	pythonSamples2/Algorithms/Factorial.py	/^def iterative_factorial(number):$/;"	f
@@ -286,16 +321,22 @@ large	pythonSamples2/Big-O/O(n).py	/^large = ['nemo' for i in range(100000)]$/;"
 large1	pythonSamples2/Big-O/O(m + n).py	/^large1 = ['nemo' for i in range(100000)]$/;"	v
 large2	pythonSamples2/Big-O/O(m + n).py	/^large2 = ['nemo' for i in range(100000)]$/;"	v
 left_child	pythonSamples2/DS/Trees/Heap.py	/^    def left_child(self, pos):$/;"	m	class:MaxHeap
+lengthOfLongestSubstring	leetCode/3.longest_subString_without_repeating_character_BruteForce.py	/^      def lengthOfLongestSubstring(self, s: str) -> int:$/;"	m	class:Solution
+lengthOfLongestSubstring	leetCode/3.longest_subString_without_repeating_character_SlidingWindow.py	/^def lengthOfLongestSubstring(s):$/;"	f
 li	pythonSamples2/DS/Trees/Priority_Queues_Using_Heap.py	/^li = [5, 7, 9, 1, 3]$/;"	v
 li1	pythonSamples2/DS/Trees/Priority_Queues_Using_Heap.py	/^li1 = [5, 7, 9, 4, 3]$/;"	v
 li2	pythonSamples2/DS/Trees/Priority_Queues_Using_Heap.py	/^li2 = [5, 7, 9, 4, 3]$/;"	v
 list1	pythonSamples2/DS/Arrays/Reversing_String.py	/^list1 = list(string1)$/;"	v
 log_all_pairs	pythonSamples2/Big-O/O(n^2).py	/^def log_all_pairs(array):$/;"	f
+longestPalindrome	leetCode/5.Longest_palindromic_substring.py	/^def longestPalindrome(s):$/;"	f
+longestPalindrome	leetCode/5.Longest_palindromic_substring_1.py	/^def longestPalindrome(s):$/;"	f
 lookup	pythonSamples/Traversals/Breadth First Search.py	/^  def lookup(self,val):$/;"	m	class:BinarySearchTree
 lookup	pythonSamples/Traversals/Depth First Search.py	/^  def lookup(self,val):$/;"	m	class:BinarySearchTree
 lookup	pythonSamples/Trees/Binary Search Tree.py	/^  def lookup(self,data):$/;"	m	class:BinarySearchTree
+makeFinalArray	leetCode/844.Typed_out_string_match_BackspaceStringComapre_.py	/^    def makeFinalArray(self,arr):$/;"	m	class:Solution
 maxArea	leetCode/11.container_with_most_water.py	/^    def maxArea(self, height: List[int]) -> int:$/;"	m	class:Solution
 maxArea	leetCode/11.container_with_most_water_Optimized.py	/^    def maxArea(self, height: List[int]) -> int:$/;"	m	class:Solution
+maxProfit	leetCode/121.Best_time_to_buy_sell_stocks.py	/^    def maxProfit(self, prices):$/;"	m	class:Solution
 max_heapify	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^def max_heapify(array, heap_size, i):$/;"	f
 max_heapify	pythonSamples2/DS/Trees/Heap.py	/^    def max_heapify(self, pos):$/;"	m	class:MaxHeap
 memo	pythonSamples/Dynamic Programming/Memoization.py	/^memo = memoizedadd80()$/;"	v
@@ -309,6 +350,8 @@ merge	pythonSamples2/DS/Arrays/Merging_sorted_arrays.py	/^def merge(array1, arra
 merge_sort	pythonSamples2/Algorithms/Sorting/Merge_Sort.py	/^def merge_sort(array):$/;"	f
 mergesort	pythonSamples/Sorting/Merge sort.py	/^def mergesort(arr):$/;"	f
 mergesortedarr	pythonSamples/Arrays/Merge Sorted Arrays.py	/^def mergesortedarr(a,b):$/;"	f
+minAddToMakeValid	leetCode/100.Minimum_parentheses_to_add.py	/^    def minAddToMakeValid(self, S: str) -> int:$/;"	m	class:Solution
+minRemoveToMakeValid	leetCode/100.Minimum_parentheses_to_remove.py	/^def minRemoveToMakeValid(self, s: str) -> str:$/;"	f
 myGraph	pythonSamples/Graph/Graph Implementation.py	/^myGraph = Graph()$/;"	v
 my_array	pythonSamples2/DS/Arrays/Implementation.py	/^class my_array():$/;"	c
 my_bst	pythonSamples2/Algorithms/Traversals/BFS.py	/^my_bst = BST()$/;"	v
@@ -336,6 +379,7 @@ naive_zero_mover	pythonSamples2/DS/Arrays/Move_Zeroes.py	/^def naive_zero_mover(
 nemo	pythonSamples2/Big-O/O(n).py	/^nemo = ['nemo']$/;"	v
 new_array	pythonSamples2/Big-O/O(n^2).py	/^new_array = [1,2,3,4,5]$/;"	v
 new_hash	pythonSamples2/DS/Hash Tables/Implementation.py	/^new_hash = hash_table(2)$/;"	v
+numberToWords	leetCode/273.Integers_to_english_words_translation.py	/^    def numberToWords(self, num: int) -> str:$/;"	m	class:Solution
 numbers	pythonSamples/Sorting/Quick sort.py	/^numbers = [99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0]$/;"	v
 one_liner_move	pythonSamples2/DS/Arrays/Move_Zeroes.py	/^def one_liner_move(array):$/;"	f
 optimized_bubble_sort	pythonSamples2/Algorithms/Sorting/Bubble_Sort.py	/^def optimized_bubble_sort(array):$/;"	f
@@ -414,6 +458,8 @@ reverse	pythonSamples/Linkedlist/Linked List.py	/^  def reverse(self):$/;"	m	cla
 reverse	pythonSamples/Recursion/Reversing a string using Recursion.py	/^def reverse(word):$/;"	f
 reverse	pythonSamples2/DS/Arrays/Rotate_Array.py	/^def reverse(array, start, end): #Function to reverse the elements of array from index start to index end$/;"	f
 reverse	pythonSamples2/DS/Linked Lists/Reverse.py	/^def reverse(linked_list):$/;"	f
+reverseList	leetCode/206.Reverse_linked_list.iterative.py	/^    def reverseList(self, head: ListNode) -> ListNode:$/;"	m	class:Solution
+reverseList	leetCode/206.Reverse_linked_list.recursive.py	/^    def reverseList(self, head: ListNode) -> ListNode:$/;"	m	class:Solution
 reverse_rotate	pythonSamples2/DS/Arrays/Rotate_Array.py	/^def reverse_rotate(array, k):$/;"	f
 reverse_sorted_array	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^reverse_sorted_array = [9,8,7,6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10]$/;"	v
 reverse_sorted_array	pythonSamples2/Algorithms/Sorting/Insertion_Sort.py	/^reverse_sorted_array = [9,8,7,6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10]$/;"	v
@@ -422,6 +468,9 @@ reverse_sorted_array	pythonSamples2/Algorithms/Sorting/Quick_Sort.py	/^reverse_s
 reverse_sorted_array	pythonSamples2/Algorithms/Sorting/Selection_Sort.py	/^reverse_sorted_array = [9,8,7,6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10]$/;"	v
 reversed_linked_list	pythonSamples2/DS/Linked Lists/Reverse.py	/^reversed_linked_list = reverse(my_linked_list)$/;"	v
 right_child	pythonSamples2/DS/Trees/Heap.py	/^    def right_child(self, pos):$/;"	m	class:MaxHeap
+rotate	leetCode/788.rotated_digits_using_simple.py	/^def rotate(self, n):$/;"	f
+rotatedDigits	leetCode/788.rotated_digits_using_hash_map.py	/^    def rotatedDigits(self, N: int) -> int:$/;"	m	class:Solution
+rotatedDigits	leetCode/788.rotated_digits_using_simple.py	/^def rotatedDigits(self, N):$/;"	f
 search	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def search(self,data):$/;"	m	class:BST
 search	pythonSamples2/Algorithms/Traversals/DFS.py	/^    def search(self,data):$/;"	m	class:BST
 search	pythonSamples2/DS/Trees/Binary_Search_Tree.py	/^    def search(self,data):$/;"	m	class:BST
@@ -439,6 +488,7 @@ sign_in	super.py	/^    def sign_in(self):$/;"	m	class:User
 simple_frc	pythonSamples2/DS/Hash Tables/First_Recurring_Character.py	/^def simple_frc(array):$/;"	f
 simple_reverse	pythonSamples2/DS/Arrays/Reversing_String.py	/^def simple_reverse(string):$/;"	f
 sixth_element	pythonSamples2/DS/Arrays/Introduction.py	/^sixth_element = array[5]  #sixth-element = 43 Again, in O(1) time$/;"	v
+size	array_find_matching.py	/^size=len(array_in)$/;"	v
 size	leetCode/array_find_matching.py	/^size=len(array_in)$/;"	v
 slightly_better_pair_sum	pythonSamples2/Google Interview Question.py	/^def slightly_better_pair_sum(array, sum):$/;"	f
 smart_duplicate_search	pythonSamples2/DS/Arrays/Contains_Duplicate.py	/^def smart_duplicate_search(array):$/;"	f
@@ -459,12 +509,16 @@ squaring	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^def squa
 squaring_with_memoization	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^def squaring_with_memoization(number):$/;"	f
 squaring_without_memoization	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^def squaring_without_memoization(number): #Function to calculate the suare of a number$/;"	f
 sss	pythonSamples2/DS/Arrays/Longest_Word.py	/^sss = "Hello there how are you"$/;"	v
+stack	leetCode/100.Minimum_parentheses_to_add.py	/^        stack =[]$/;"	v	class:Solution
+string	leetCode/3.longest_subString_without_repeating_character_SlidingWindow.py	/^string="Sanju kumarigtzpqh"$/;"	v
 string	pythonSamples2/DS/Arrays/Longest_Word.py	/^string = 'fun!@#$# times'$/;"	v
 string	pythonSamples2/DS/Arrays/Reversing_String.py	/^string = "Hello"$/;"	v
 string	pythonSamples2/DS/Hash Tables/Pattern_Matching.py	/^string = "AABAACAADAABAABA"$/;"	v
 string1	pythonSamples2/DS/Arrays/Reversing_String.py	/^string1 = 'abcde'$/;"	v
 string2	pythonSamples2/DS/Arrays/Reversing_String.py	/^string2 = reversed(string1)$/;"	v
 strings	pythonSamples/Arrays/Arrays.py	/^strings = ['a','b','c','d']$/;"	v
+subFunction	leetCode/101_symmetric_tree_without_null_handling.py	/^    def subFunction(self,lf, rt):$/;"	m	class:Solution
+subFunction	leetCode/101_symmetric_tree_without_null_handling.py	/^def subFunction(lf, rt):$/;"	f
 sum	pythonSamples2/Google Interview Question.py	/^sum = 3$/;"	v
 super_list1	ex_extending_list.py	/^super_list1=SuperList();$/;"	v
 swap	pythonSamples/Sorting/Quick sort.py	/^def swap(array, firstindex, secondindex):$/;"	f
@@ -476,7 +530,8 @@ t1	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^t1 = time.time
 t2	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^t2 = time.time()$/;"	v
 t2	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^t2 = time.time()$/;"	v
 times	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^times =[]$/;"	v
-total	leetCode/array_find_matching.py	/^total = 16$/;"	v
+total	array_find_matching.py	/^total = 16$/;"	v
+total	leetCode/array_find_matching.py	/^total = 66$/;"	v
 trap	leetCode/42.Trapping_rain_water.py	/^    def trap(self, height: List[int]) -> int:$/;"	m	class:Solution
 trap	leetCode/42.Trapping_rain_water_BruteForce.py	/^    def trap(self, height: List[int]) -> int:$/;"	m	class:Solution
 traversetoindex	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def traversetoindex(self,index):$/;"	m	class:DoublyLinkedList
