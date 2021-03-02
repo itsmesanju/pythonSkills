@@ -46,7 +46,6 @@ Queue	pythonSamples/StackAndQueue/Queue using Linked List.py	/^class Queue:$/;"	
 Queue	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^class Queue():$/;"	c
 Queue	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^class Queue():$/;"	c
 Recursive_BFS	pythonSamples2/Algorithms/Traversals/BFS.py	/^    def Recursive_BFS(self, queue, BFS_list):$/;"	m	class:BST
-Solution	leetCode/1.twoSum.py	/^class Solution:$/;"	c
 Solution	leetCode/100.Minimum_parentheses_to_add.py	/^    def minAddToMakeValid(self, S):$/;"	c
 Solution	leetCode/100.Minimum_parentheses_to_add.py	/^class Solution:$/;"	c
 Solution	leetCode/101_symmetric_tree_with_null_handling.py	/^class Solution:$/;"	c
@@ -58,8 +57,10 @@ Solution	leetCode/121.Best_time_to_buy_sell_stocks.py	/^class Solution(object):$
 Solution	leetCode/125.valid_Palindrome.py	/^class Solution:$/;"	c
 Solution	leetCode/125.valid_Palindrome_optimized_with_re.py	/^class Solution:$/;"	c
 Solution	leetCode/125.valid_Palindrome_two_pointer.py	/^class Solution(object):$/;"	c
+Solution	leetCode/2.Add_reversed_two_numbers_in_linkedList.py	/^class Solution:$/;"	c
 Solution	leetCode/20.valid_parantheses.py	/^class Solution(object):$/;"	c
 Solution	leetCode/20.valid_parantheses_stack.py	/^class Solution:$/;"	c
+Solution	leetCode/200.Number_of_islands.py	/^class Solution(object):$/;"	c
 Solution	leetCode/206.Reverse_linked_list.iterative.py	/^class Solution:$/;"	c
 Solution	leetCode/206.Reverse_linked_list.recursive.py	/^class Solution:        $/;"	c
 Solution	leetCode/273.Integers_to_english_words_translation.py	/^class Solution:$/;"	c
@@ -69,9 +70,13 @@ Solution	leetCode/387.First_Unique_Character_in_String.py	/^class Solution:$/;"	
 Solution	leetCode/42.Trapping_rain_water.py	/^class Solution:$/;"	c
 Solution	leetCode/42.Trapping_rain_water_BruteForce.py	/^class Solution:$/;"	c
 Solution	leetCode/7.reverseInteger.py	/^class Solution:$/;"	c
+Solution	leetCode/70.Climbing_Stairs.py	/^class Solution:$/;"	c
 Solution	leetCode/788.rotated_digits_using_hash_map.py	/^class Solution:$/;"	c
 Solution	leetCode/788.rotated_digits_using_simple.py	/^class Solution:$/;"	c
 Solution	leetCode/844.Typed_out_string_match_BackspaceStringComapre_.py	/^class Solution:$/;"	c
+Solution	leetCode/House_robber_using_DP.py	/^class Solution:$/;"	c
+Solution	leetCode/House_robber_using_odd-even.py	/^class Solution:$/;"	c
+Solution	leetCode/find_elements_from_array_equals_to_sum.py	/^class Solution:$/;"	c
 Solution	leetCode/validate_one_type_of_paranthesis.py	/^class Solution:$/;"	c
 Stack	pythonSamples/StackAndQueue/Stacks using Arrays.py	/^class Stack:$/;"	c
 Stack	pythonSamples/StackAndQueue/Stacks using Linked List.py	/^class Stack:$/;"	c
@@ -156,6 +161,7 @@ a	pythonSamples/Arrays/Merge Sorted Arrays.py	/^a=[1,3,4,6,20]$/;"	v
 a	pythonSamples2/DS/Arrays/Rotate_Array.py	/^a = [1,2,3,4,5,6,7,8,9]$/;"	v
 add80	pythonSamples/Dynamic Programming/Memoization.py	/^def add80(n):$/;"	f
 addEdge	pythonSamples/Graph/Graph Implementation.py	/^  def addEdge(self,node1,node2):$/;"	m	class:Graph
+addTwoNumbers	leetCode/2.Add_reversed_two_numbers_in_linkedList.py	/^    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:$/;"	m	class:Solution
 addVertex	pythonSamples/Graph/Graph Implementation.py	/^  def addVertex(self,node):$/;"	m	class:Graph
 add_first	pythonSamples/Linkedlist/Circular Linked List.py	/^    def add_first(self, value):$/;"	m	class:CircularLinkedList
 add_last	pythonSamples/Linkedlist/Circular Linked List.py	/^    def add_last(self, value):$/;"	m	class:CircularLinkedList
@@ -231,6 +237,7 @@ cache	pythonSamples2/Algorithms/Dynamic Programming/Memoization.py	/^cache = {}$
 checkFunction	array_elements_both_side_equal_balancing.py	/^def checkFunction(arr, size) : $/;"	f
 checkNodes	leetCode/101_symmetric_tree_with_null_handling.py	/^    def checkNodes(self,left,right):$/;"	m	class:Solution
 circ_list	pythonSamples/Linkedlist/Circular Linked List.py	/^circ_list = CircularLinkedList()$/;"	v
+climbStairs	leetCode/70.Climbing_Stairs.py	/^    def climbStairs(self, n: int) -> int:$/;"	m	class:Solution
 convertThreeDigit	leetCode/273.Integers_to_english_words_translation.py	/^            def convertThreeDigit(num):$/;"	f	function:Solution.numberToWords
 count	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^count = 0$/;"	v
 count	pythonSamples2/Algorithms/Sorting/Merge_Sort.py	/^count = 0$/;"	v
@@ -245,6 +252,7 @@ delete_by_value	pythonSamples2/DS/Linked Lists/Implementation.py	/^    def delet
 dequeue	pythonSamples/StackAndQueue/Queue using Linked List.py	/^  def dequeue(self):$/;"	m	class:Queue
 dequeue	pythonSamples2/DS/Queues/Linked_List_Implementation.py	/^    def dequeue(self):$/;"	m	class:Queue
 dequeue	pythonSamples2/DS/Queues/Queue_Using_Stacks.py	/^    def dequeue(self):$/;"	m	class:Queue
+dfs	leetCode/200.Number_of_islands.py	/^    def dfs(self, grid, r, c):$/;"	m	class:Solution
 dictionary	pythonSamples2/DS/Hash Tables/Introduction.py	/^dictionary = dict()$/;"	v
 dictionary	pythonSamples2/DS/Hash Tables/Introduction.py	/^dictionary = {'one':1, 'two':2, 'three':3, 'four':4, 'five':5}$/;"	v
 dynamic_fibonacci	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^def dynamic_fibonacci(n):$/;"	f
@@ -352,6 +360,7 @@ mergesort	pythonSamples/Sorting/Merge sort.py	/^def mergesort(arr):$/;"	f
 mergesortedarr	pythonSamples/Arrays/Merge Sorted Arrays.py	/^def mergesortedarr(a,b):$/;"	f
 minAddToMakeValid	leetCode/100.Minimum_parentheses_to_add.py	/^    def minAddToMakeValid(self, S: str) -> int:$/;"	m	class:Solution
 minRemoveToMakeValid	leetCode/100.Minimum_parentheses_to_remove.py	/^def minRemoveToMakeValid(self, s: str) -> str:$/;"	f
+myCache	leetCode/70.Climbing_Stairs.py	/^    myCache = {}    # A cache to store the results which are already calculated}$/;"	v	class:Solution
 myGraph	pythonSamples/Graph/Graph Implementation.py	/^myGraph = Graph()$/;"	v
 my_array	pythonSamples2/DS/Arrays/Implementation.py	/^class my_array():$/;"	c
 my_bst	pythonSamples2/Algorithms/Traversals/BFS.py	/^my_bst = BST()$/;"	v
@@ -379,6 +388,7 @@ naive_zero_mover	pythonSamples2/DS/Arrays/Move_Zeroes.py	/^def naive_zero_mover(
 nemo	pythonSamples2/Big-O/O(n).py	/^nemo = ['nemo']$/;"	v
 new_array	pythonSamples2/Big-O/O(n^2).py	/^new_array = [1,2,3,4,5]$/;"	v
 new_hash	pythonSamples2/DS/Hash Tables/Implementation.py	/^new_hash = hash_table(2)$/;"	v
+numIslands	leetCode/200.Number_of_islands.py	/^    def numIslands(self, grid):$/;"	m	class:Solution
 numberToWords	leetCode/273.Integers_to_english_words_translation.py	/^    def numberToWords(self, num: int) -> str:$/;"	m	class:Solution
 numbers	pythonSamples/Sorting/Quick sort.py	/^numbers = [99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0]$/;"	v
 one_liner_move	pythonSamples2/DS/Arrays/Move_Zeroes.py	/^def one_liner_move(array):$/;"	f
@@ -468,6 +478,9 @@ reverse_sorted_array	pythonSamples2/Algorithms/Sorting/Quick_Sort.py	/^reverse_s
 reverse_sorted_array	pythonSamples2/Algorithms/Sorting/Selection_Sort.py	/^reverse_sorted_array = [9,8,7,6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6,-7,-8,-9,-10]$/;"	v
 reversed_linked_list	pythonSamples2/DS/Linked Lists/Reverse.py	/^reversed_linked_list = reverse(my_linked_list)$/;"	v
 right_child	pythonSamples2/DS/Trees/Heap.py	/^    def right_child(self, pos):$/;"	m	class:MaxHeap
+rob	leetCode/House_robber_using_DP.py	/^     def rob(self, nums):$/;"	m	class:Solution
+rob	leetCode/House_robber_using_odd-even.py	/^     def rob(self, nums):$/;"	m	class:Solution
+rob	leetCode/House_robber_using_odd-even.py	/^def rob(self, nums):$/;"	f
 rotate	leetCode/788.rotated_digits_using_simple.py	/^def rotate(self, n):$/;"	f
 rotatedDigits	leetCode/788.rotated_digits_using_hash_map.py	/^    def rotatedDigits(self, N: int) -> int:$/;"	m	class:Solution
 rotatedDigits	leetCode/788.rotated_digits_using_simple.py	/^def rotatedDigits(self, N):$/;"	f
@@ -537,7 +550,7 @@ trap	leetCode/42.Trapping_rain_water_BruteForce.py	/^    def trap(self, height: 
 traversetoindex	pythonSamples/Linkedlist/Doubly Linked List.py	/^    def traversetoindex(self,index):$/;"	m	class:DoublyLinkedList
 tree	pythonSamples/Traversals/Breadth First Search.py	/^tree = BinarySearchTree()$/;"	v
 tree	pythonSamples/Traversals/Depth First Search.py	/^tree = BinarySearchTree()$/;"	v
-twoSum	leetCode/1.twoSum.py	/^    def twoSum(self, nums: List[int], target: int) -> List[int]:$/;"	m	class:Solution
+twoSum	leetCode/find_elements_from_array_equals_to_sum.py	/^    def twoSum(self, nums: List[int], target: int) -> List[int]:$/;"	m	class:Solution
 values	pythonSamples2/DS/Hash Tables/Implementation.py	/^    def values(self): #Function to return all the values, with exactly the same logic as the keys function$/;"	m	class:hash_table
 wizard1	dunder.py	/^wizard1=Wizard('WizardName', 60, 'itsmesanju@gmail.com')$/;"	v
 wizard1	introspection.py	/^wizard1=Wizard('WizardName', 60, 'itsmesanju@gmail.com')$/;"	v
