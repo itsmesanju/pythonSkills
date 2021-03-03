@@ -57,18 +57,23 @@ Solution	leetCode/121.Best_time_to_buy_sell_stocks.py	/^class Solution(object):$
 Solution	leetCode/125.valid_Palindrome.py	/^class Solution:$/;"	c
 Solution	leetCode/125.valid_Palindrome_optimized_with_re.py	/^class Solution:$/;"	c
 Solution	leetCode/125.valid_Palindrome_two_pointer.py	/^class Solution(object):$/;"	c
+Solution	leetCode/136.Single_number_missing.py	/^class Solution:$/;"	c
+Solution	leetCode/139.Word_break.py	/^class Solution(object):$/;"	c
 Solution	leetCode/2.Add_reversed_two_numbers_in_linkedList.py	/^class Solution:$/;"	c
 Solution	leetCode/20.valid_parantheses.py	/^class Solution(object):$/;"	c
 Solution	leetCode/20.valid_parantheses_stack.py	/^class Solution:$/;"	c
 Solution	leetCode/200.Number_of_islands.py	/^class Solution(object):$/;"	c
 Solution	leetCode/206.Reverse_linked_list.iterative.py	/^class Solution:$/;"	c
 Solution	leetCode/206.Reverse_linked_list.recursive.py	/^class Solution:        $/;"	c
+Solution	leetCode/217.Contains_duplicate_in_array.py	/^class Solution:$/;"	c
+Solution	leetCode/268.Missing_number.py	/^class Solution:$/;"	c
 Solution	leetCode/273.Integers_to_english_words_translation.py	/^class Solution:$/;"	c
 Solution	leetCode/3.longest_subString_without_repeating_character_BruteForce.py	/^class Solution:$/;"	c
 Solution	leetCode/387.First_Unique_Character_in_String.py	/^class Solution(object):$/;"	c
 Solution	leetCode/387.First_Unique_Character_in_String.py	/^class Solution:$/;"	c
 Solution	leetCode/42.Trapping_rain_water.py	/^class Solution:$/;"	c
 Solution	leetCode/42.Trapping_rain_water_BruteForce.py	/^class Solution:$/;"	c
+Solution	leetCode/56.Merge_intervals_for_loop.py	/^class Solution:$/;"	c
 Solution	leetCode/7.reverseInteger.py	/^class Solution:$/;"	c
 Solution	leetCode/70.Climbing_Stairs.py	/^class Solution:$/;"	c
 Solution	leetCode/788.rotated_digits_using_hash_map.py	/^class Solution:$/;"	c
@@ -100,6 +105,7 @@ __init__	dunder.py	/^    def __init__(self, name, power,email):$/;"	m	class:Wiza
 __init__	introspection.py	/^    def __init__(self, email):$/;"	m	class:User
 __init__	introspection.py	/^    def __init__(self, name, num_arrows):$/;"	m	class:Archer
 __init__	introspection.py	/^    def __init__(self, name, power,email):$/;"	m	class:Wizard
+__init__	leetCode/139.Word_break.py	/^    def __init__(self):$/;"	m	class:Solution
 __init__	oop.py	/^    def __init__(self, name, num_arrows):$/;"	m	class:Archer
 __init__	oop.py	/^    def __init__(self, name, power):$/;"	m	class:Wizard
 __init__	pythonSamples/Arrays/Implementing an array.py	/^  def __init__(self):$/;"	m	class:Array
@@ -238,6 +244,8 @@ checkFunction	array_elements_both_side_equal_balancing.py	/^def checkFunction(ar
 checkNodes	leetCode/101_symmetric_tree_with_null_handling.py	/^    def checkNodes(self,left,right):$/;"	m	class:Solution
 circ_list	pythonSamples/Linkedlist/Circular Linked List.py	/^circ_list = CircularLinkedList()$/;"	v
 climbStairs	leetCode/70.Climbing_Stairs.py	/^    def climbStairs(self, n: int) -> int:$/;"	m	class:Solution
+containsDuplicate	leetCode/217.Contains_duplicate_in_array.py	/^    def containsDuplicate(self, nums: List[int]) -> bool:$/;"	m	class:Solution
+containsDuplicate	leetCode/217.Contains_duplicate_in_array.py	/^   def containsDuplicate(self, nums: List[int]) -> bool$/;"	m	class:Solution
 convertThreeDigit	leetCode/273.Integers_to_english_words_translation.py	/^            def convertThreeDigit(num):$/;"	f	function:Solution.numberToWords
 count	pythonSamples2/Algorithms/Sorting/Heap_Sort.py	/^count = 0$/;"	v
 count	pythonSamples2/Algorithms/Sorting/Merge_Sort.py	/^count = 0$/;"	v
@@ -269,6 +277,7 @@ fib	pythonSamples/Recursion/Fibonacci.py	/^def fib(num):$/;"	f
 fibo	pythonSamples/Dynamic Programming/Fibonacci - DP.py	/^def fibo(n):$/;"	f
 fibonacci	pythonSamples/Recursion/Fibonacci.py	/^def fibonacci(num):$/;"	f
 fibonacci	pythonSamples2/Algorithms/Dynamic Programming/Fibonacci.py	/^def fibonacci(n):$/;"	f
+findDisappearedNumbers	leetCode/448.Find_all_numbers_disappeared_in_array.py	/^    def findDisappearedNumbers(self, nums: List[int]) -> List[int]:$/;"	f
 find_nemo	pythonSamples2/Big-O/O(m + n).py	/^def find_nemo(array1, array2):$/;"	f
 find_nemo	pythonSamples2/Big-O/O(n).py	/^def find_nemo(array):$/;"	f
 finding_nemo	pythonSamples2/Big-O/O(1).py	/^def finding_nemo(array):$/;"	f
@@ -352,6 +361,7 @@ memoized	pythonSamples/Dynamic Programming/Memoization.py	/^  def memoized(n):$/
 memoized2add80	pythonSamples/Dynamic Programming/Memoization.py	/^def memoized2add80(n):$/;"	f
 memoizedadd80	pythonSamples/Dynamic Programming/Memoization.py	/^def memoizedadd80():$/;"	f
 memoizedadd80	pythonSamples/Dynamic Programming/Memoization.py	/^def memoizedadd80(n):$/;"	f
+merge	leetCode/56.Merge_intervals_for_loop.py	/^    def merge(self, intervals: List[List[int]]) -> List[List[int]]:$/;"	m	class:Solution
 merge	pythonSamples/Sorting/Merge sort.py	/^def merge(left,right):$/;"	f
 merge	pythonSamples2/Algorithms/Sorting/Merge_Sort.py	/^def merge(left, right):$/;"	f
 merge	pythonSamples2/DS/Arrays/Merging_sorted_arrays.py	/^def merge(array1, array2):$/;"	f
@@ -360,6 +370,7 @@ mergesort	pythonSamples/Sorting/Merge sort.py	/^def mergesort(arr):$/;"	f
 mergesortedarr	pythonSamples/Arrays/Merge Sorted Arrays.py	/^def mergesortedarr(a,b):$/;"	f
 minAddToMakeValid	leetCode/100.Minimum_parentheses_to_add.py	/^    def minAddToMakeValid(self, S: str) -> int:$/;"	m	class:Solution
 minRemoveToMakeValid	leetCode/100.Minimum_parentheses_to_remove.py	/^def minRemoveToMakeValid(self, s: str) -> str:$/;"	f
+missingNumber	leetCode/268.Missing_number.py	/^    def missingNumber(self, nums: List[int]) -> int:$/;"	m	class:Solution
 myCache	leetCode/70.Climbing_Stairs.py	/^    myCache = {}    # A cache to store the results which are already calculated}$/;"	v	class:Solution
 myGraph	pythonSamples/Graph/Graph Implementation.py	/^myGraph = Graph()$/;"	v
 my_array	pythonSamples2/DS/Arrays/Implementation.py	/^class my_array():$/;"	c
@@ -500,6 +511,7 @@ sign_in	oop.py	/^    def sign_in(self):$/;"	m	class:User
 sign_in	super.py	/^    def sign_in(self):$/;"	m	class:User
 simple_frc	pythonSamples2/DS/Hash Tables/First_Recurring_Character.py	/^def simple_frc(array):$/;"	f
 simple_reverse	pythonSamples2/DS/Arrays/Reversing_String.py	/^def simple_reverse(string):$/;"	f
+singleNumber	leetCode/136.Single_number_missing.py	/^    def singleNumber(self, nums: List[int]) -> int:$/;"	m	class:Solution
 sixth_element	pythonSamples2/DS/Arrays/Introduction.py	/^sixth_element = array[5]  #sixth-element = 43 Again, in O(1) time$/;"	v
 size	array_find_matching.py	/^size=len(array_in)$/;"	v
 size	leetCode/array_find_matching.py	/^size=len(array_in)$/;"	v
@@ -557,6 +569,7 @@ wizard1	introspection.py	/^wizard1=Wizard('WizardName', 60, 'itsmesanju@gmail.co
 wizard1	oop.py	/^wizard1=Wizard('WizardName', 60)$/;"	v
 wizard1	super.py	/^wizard1=Wizard('WizardName', 60, 'itsmesanju@gmail.com')$/;"	v
 wizard2	oop.py	/^wizard2=Wizard('Wizard2', 60)$/;"	v
+wordBreak	leetCode/139.Word_break.py	/^    def wordBreak(self, s, wordDict):$/;"	m	class:Solution
 x	pythonSamples/Arrays/Merge Sorted Arrays.py	/^x=mergesortedarr(a,b)$/;"	v
 x	pythonSamples/Arrays/Reversing a string.py	/^x=reverse('I am theja')$/;"	v
 x	pythonSamples/Dynamic Programming/Fibonacci - DP.py	/^x = fibo(8)$/;"	v
