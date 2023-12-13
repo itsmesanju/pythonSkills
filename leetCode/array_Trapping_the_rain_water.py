@@ -45,3 +45,32 @@ class Solution:
                 water_trapped += (min(tallest_to_left[idx], tallest_to_right[idx]) - h)
                 print(f"Water trapped at idx {idx} is: {water_trapped} including previous one")
         return water_trapped
+
+
+# This code uses a different approach by calculating the sum of maximum heights 
+# encountered from the left and right separately and then subtracting the overlapping parts.
+
+# The solution is "count twice", which means counting from left side once and from right side once.
+# finally, to get the water area, we use left+right-whole area -black lines(arrats) to get the answer.
+
+
+
+# The code then iterates through the heights from left to right. For each height i, 
+# it updates left_index to be the maximum of the current height i and the previous left_index. It also increments left_sum by the updated left_index.
+
+# Next, the code iterates through the heights from right to left using height[::-1]. 
+# For each height i, it updates right_index to be the maximum of the current height i and the previous right_index. 
+# It also increments right_sum by the updated right_index.
+
+ def trap(self, height: List[int]) -> int:
+        left_index, left_sum, right_index, right_sum = 0, 0, 0, 0
+        for i in height:
+            left_index = max(i, left_index)
+            left_sum += left_index
+        for i in height[::-1]:
+            right_index = max(i, right_index)
+            right_sum += right_index
+
+
+        array_height = max(height)
+        return left_sum + right_sum - sum(height) - (array_height * len(height))
