@@ -1,32 +1,25 @@
 #Python DP
+def rob(self, nums: List[int]) -> int:
+        rob1, rob2 = 0, 0
+
+        #Dynamics programming
+        #Assuming that 0 is the robbed amount from 2 more houses before... its to compare the values and add in
+        # [ rob1, rob2, n, n+1, ..... n]
+        for houses in nums:
+            temp = max (rob1+ houses, rob2)
+            rob1 = rob2
+            rob2 = temp
+
+        return rob2
+
+#Odd even
 class Solution:
      def rob(self, nums):
-            if not nums:
-                return 0
-
-            if len(nums) <= 2: #handle the case of array is 1 or 2 items longs.
-                return max(nums)
-
-            dp = [0] * len(nums) #initialize a new array to hold the cummulative values
-            dp[0] = nums[0] #copy first element as it to compare it with further
-            dp[1] = max(nums[0], nums[1]) #compare the first two elements from nums array and choose the higher one to rob and place in 2nd index.
-
-            #once two houses are determined to rob, run a loop on entire range to decide which houses to rob.
-
-            for house in range(2,len(nums)): #starting from 3rd element to the entire range of array
-                dp[house] = max(dp[house -1], nums[house] + dp [house -2])
-
-            return dp[-1] #return last element updated from for loop which will have the highest robbed money
-#Python NO EXTRA ARRAY
-
-class Solution:
-     def rob(self, nums):
-            prev = 0
-            curr = 0
-
-            for num in nums:
-                temp = prev
-                prev = curr
-                curr = max((num + temp), prev)
-
-            return curr
+          
+        odd = even = 0
+        for i in range(len(nums)):
+            if i % 2 == 0:
+                odd = max(even, odd + nums[i])
+            else:
+                even = max(odd, even + nums[i])
+        return max(odd, even)
