@@ -15,3 +15,4 @@ class Solution:
                 if is_pal(s):
                     ans += 1
             return ans
+
