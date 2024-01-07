@@ -21,7 +21,7 @@ class Solution:
             print(f"For coint: {coin}")
             # Update dp array for each amount starting from the coin value
             for i in range(coin, amount + 1):
-                dp[i] = min(dp[i], dp[i - coin] + 1)    
+                dp[i] = min(dp[i], 1 + dp[i - coin])    
 
         if dp[amount] != float('inf'):
             print(f"Result is {dp[amount]}")
