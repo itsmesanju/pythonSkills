@@ -12,6 +12,10 @@ class Solution:
             ans += max(0, potential) 
         return ans
 
+# This code uses a different approach by calculating the sum of maximum heights 
+# encountered from the left and right separately and then subtracting the overlapping parts.
+# The solution is "count twice", which means counting from left side once and from right side once.
+# finally, to get the water area, we use left+right-whole area -black lines(arrats) to get the answer.
 
 class Solution:
  def trap(self, height: List[int]) -> int:
