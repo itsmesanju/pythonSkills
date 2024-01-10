@@ -7,12 +7,10 @@ def fib(n):
   else:
     return fib(n-1) + fib(n-2)
 
-print(fib(10))
-print(fib.cache_info())
 
 
+#with memo
 cache = {}
-
 def fibo(n):
   if n in cache:
     return cache[n]
@@ -23,8 +21,3 @@ def fibo(n):
     cache[n] = fib(n-1) + fib(n-2)
   
     return cache[n]
-
-
-x = fibo(8)
-print(cache)
-print(x)
