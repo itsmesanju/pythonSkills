@@ -55,3 +55,28 @@ def decode_string(s: str) -> str:
         contents += char
 
   return return_string
+
+#Using stack
+class Encoding:
+    def __init__(self, count:str = "", contents:str = "") -> None:            
+        self.count = count
+        self.contents = contents
+
+def decode_string(s: str) -> str:
+    encoding_stack = [Encoding()]
+    count = ""
+        
+    for char in s:
+        if char.isdigit():
+            count += char
+        elif char == "[":
+            encoding_stack.append(Encoding(count=count, contents=""))
+            count = ""
+        elif char == "]":
+            encoding = encoding_stack.pop()
+            expanded_encoding = int(encoding.count) * encoding.contents
+            encoding_stack[-1].contents += expanded_encoding
+        else:
+            encoding_stack[-1].contents += char
+        
+    return encoding_stack[0].contents
