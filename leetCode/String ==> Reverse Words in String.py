@@ -12,3 +12,13 @@ def rev_sentence(sentence):
 if __name__ == "__main__": 
     input = 'geeks quiz practice code'
     print (rev_sentence(input))
+
+
+
+### ALTERNATIVE
+
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        words = s.split(' ')
+        filtered_words = [s for s in words if s != '']
+        return ' '.join(filtered_words[::-1])
